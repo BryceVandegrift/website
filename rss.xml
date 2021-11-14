@@ -1,0 +1,11 @@
+<rss version="2.0">
+	<channel>
+		<title>Bryce Vandegrift's Blog</title>
+		<decscription>Updates to Bryce Vandegrift's blog.</description>
+		<language>en-us</language>
+		<link>https://brycevandegrift.xyz/rss.xml</link>
+		<atom:link href="https://brycevandegrift.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+		<!-- SB -->
+		<!-- EB -->
+	</channel>
+</rss>
