@@ -1,18 +1,12 @@
-<rss version="2.0">
-	<channel>
-		<title>Bryce Vandegrift's Blog</title>
-		<description>Updates to Bryce Vandegrift's blog.</description>
-		<language>en-us</language>
-		<link>https://brycevandegrift.xyz/rss.xml</link>
-		<link href="https://brycevandegrift.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-<!-- SB -->
-
-<item>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<link rel="icon" href='//brycevandegrift.xyz/p/icon.ico' type="image/x-icon">
+<link rel="stylesheet" href='//brycevandegrift.xyz/index.css'>
 <title>My Thoughts on BSDs</title>
-<guid>/home/bryce/Documents/website/blog/my-thoughts-on-bsds/my-thoughts-on-bsds.html.html</guid>
-<link>/home/bryce/Documents/website/blog/my-thoughts-on-bsds/my-thoughts-on-bsds.html.html</link>
-<pubDate>Fri, 31 Dec 2021 17:57:31 -0600</pubDate>
-<description>
+</head>
+<body>
 <h1 id="my-thoughts-on-bsds">My Thoughts on BSDs</h1>
 <p>For those of you who are not a big fan of Linux but want something that caters more to the Unix philosophy, a distribution of BSD (Berkeley Software Distribution) may be right for you. Unlike Linux, most BSD systems’ tools, kernels, and programs are built from the ground up for that specific BSD distribution. This also means that it can take a while for a feature or program that’s popular on Linux to make its way to a specific BSD distribution. But, BSD it is worth a try nonetheless.</p>
 <p>There are four major versions of BSD that I believe to be useable as an everyday operating system: FreeBSD, OpenBSD, NetBSD, and DragonFlyBSD.</p>
@@ -25,20 +19,5 @@
 <h2 id="dragonflybsd">DragonFlyBSD</h2>
 <p><a href="https://www.dragonflybsd.org/">DragonFlyBSD</a> is a distribution of BSD that is tailored for performance and speed. I believe that DragonFlyBSD definitely delivers on it’s promise of speed. Overall multi-threading and multi-processor support as well as speed is very competitive with even the fastest of Linux systems. Swapcache, a different type of swap made for DragonFlyBSD, also helps with greatly boosting performance for large workloads. The HAMMER file systems are also very neat. The HAMMER file systems have instant crash recovery, snapshots, support for multiple volumes, and much more. If you want a fast and efficient operating system, I would definitely recommend trying DragonFlyBSD.</p>
 <p><img src="https://brycevandegrift.xyz/p/bsd.png" /></p>
-</description>
-</item>
-
-<item>
-<title>New Blog</title>
-<guid>https://brycevandegrift.xyz/blog/new-blog/new-blog.html</guid>
-<link>https://brycevandegrift.xyz/blog/new-blog/new-blog.html</link>
-<pubDate>Mon, 29 Nov 2021 22:07:54 -0600</pubDate>
-<description>
-<h1 id="new-blog">New Blog</h1>
-<p>Recently, I have been working on a new blog system that takes Markdown and converts it into a very simple HTML page as well as an RSS feed. The blog system is written entirely in POSIX shell and is around 100 lines of code.</p>
-<p>If succesful, it should generate a blog page, an RSS feed, as well as a rolling blog index page. The only downside is that it requires Pandoc which isn’t that small of a package, but it makes making blog posts a lot easier to write as I can write in Markdown instead of HTML.</p>
-<p>I based some of it from Luke Smith’s blog script <a href="https://github.com/LukeSmithxyz/lb">here</a>. I have added a few querks of my own and I also plan to greatly expand on it in the future.</p>
-</description>
-</item>
-</channel>
-</rss>
+</body>
+</html>
