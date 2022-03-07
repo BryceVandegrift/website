@@ -16,7 +16,6 @@ h3 {
 }
 
 body {
-        background-color: rgba(0, 0, 0, 0.1);
         margin-left: 25%;
         margin-right: 25%;
         border-radius: 5px;
@@ -44,6 +43,18 @@ pre {
         border-radius: 5px;
 }
 
+nav {
+	float: right;
+}
+
+#main {
+	max-width: 700px;
+}
+
+nav > ul > li {
+	padding-bottom: 10px;
+}
+
 a:hover {
         color: black;
         text-decoration: underline;
@@ -51,14 +62,6 @@ a:hover {
 
 #smalltext {
         font-size: small;
-}
-
-#me {
-        width: 25%;
-        height: 25%;
-        border-radius: 5px;
-        float: right;
-        margin-right: 200px;
 }
 
 #void {
