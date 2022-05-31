@@ -45,9 +45,20 @@ a {
 
 code {
         background-color: rgba(0,0,0,0.5);
+	font-family: monospace;
 	color: #fe8019;
 	padding: 2px;
 	border-radius: 2px;
+}
+
+blockquote {
+	background-color: #1d2021;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+strong {
+	color: #b16286;
 }
 
 pre {
@@ -119,4 +130,8 @@ a:hover {
         width: 25%;
         height: 25%;
         float: right;
+}
+
+span {
+	font-family: monospace;
 }
