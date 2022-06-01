@@ -135,3 +135,7 @@ a:hover {
 span {
 	font-family: monospace;
 }
+
+pre {
+	background-color: #111111;
+}
