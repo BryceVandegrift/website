@@ -62,7 +62,8 @@ strong {
 }
 
 pre {
-        background-color: darkgrey;
+        background-color: #111111;
+	font-family: monospace;
         padding: 20px;
         margin: 20px;
         border-style: solid;
@@ -79,6 +80,10 @@ nav {
 	padding-right: 25px;
 	background-color: rgba(0,0,0,0.2);
 	border-radius: 5px;
+}
+
+span {
+	font-family: monospace;
 }
 
 #main {
@@ -132,10 +137,3 @@ a:hover {
         float: right;
 }
 
-span {
-	font-family: monospace;
-}
-
-pre {
-	background-color: #111111;
-}
