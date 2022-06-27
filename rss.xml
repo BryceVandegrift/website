@@ -8,6 +8,64 @@
 <!-- SB -->
 
 <item>
+<title>Changing My Website Host</title>
+<guid>https://brycevandegrift.xyz/blog/changing-my-website-host/changing-my-website-host.html</guid>
+<link>https://brycevandegrift.xyz/blog/changing-my-website-host/changing-my-website-host.html</link>
+<pubDate>Sun, 26 Jun 2022 23:21:24 -0400</pubDate>
+<description>
+<![CDATA[
+<h1 id="changing-my-website-host">Changing My Website Host</h1>
+<p>For the longest time I have used <a
+href="https://www.infinityfree.net/">Infinity Free</a> as the host for
+my website since it has free website hosting. However, I haven’t been
+able to successfully set up a SSL certificate without using Cloudflare.
+Cloudflare has not had a good reputation and, in my opinion, <a
+href="https://www.unixsheikh.com/articles/stay-away-from-cloudflare.html">cannot
+be trusted</a> <a href="https://www.devever.net/~hl/cloudflare">at
+all</a>.</p>
+<p>My final solution in the long run is to self host my website and
+everything that I need on a home computer. But for now, I have a few
+decent choices for hosting my website:</p>
+<h2 id="sourcehut">1. <a href="https://sourcehut.org">Sourcehut</a></h2>
+<p>Sourcehut provides static website hosting, git repository hosting,
+gemini hosting (sadly no gopher hosting) and many other things. The
+upside of using Sourcehut versus a lot of other platforms for hosting my
+website is that they use only free and open source software for
+hosting.</p>
+<p>Hosted websites are automatically outfitted with SSL certificates
+which reduces the hassle (and they don’t use Cloudflare). My git
+repositories are also hosted at Sourcehut so it would make sense to move
+my website there. Sourcehut also provides paste bins, mailing lists,
+wikis, and more useful tools.</p>
+<p>One caveat is that, even though service is currently 100% free (as in
+free beer), once Sourcehut is out of alpha, there will probably be a
+price tag associated with all the services (although, right now the
+price doesn’t look that bad.)</p>
+<h2 id="get-a-vps">2. Get a VPS</h2>
+<p>This may be my best option in the long run as it’s the closest thing
+to self hosting that I can get. I can host my website, git repositories,
+as well as almost anything else that I like including chat servers,
+forums, email, and etc.</p>
+<p>The biggest downside of this is the price, which can vary from a
+couple dozen dollars a year to a few <strong>hundred</strong> dollars a
+year.</p>
+<h2 id="move-to-some-other-3rd-party-static-site-host">3. Move to some
+other 3rd party static site host</h2>
+<p>I’m probably more likely to self host my website before I resort to
+hosting it using <em>another</em> not well known 3rd party service. My
+trust in most 3rd party hosts is slowly dwindling as the years go
+by.</p>
+<h2 id="the-verdict">The verdict</h2>
+<p>I currently plan to move my website to Sourcehut hosting for the time
+being, however I plan to eventually self host everything I need and
+become self reliant. I also might move my website to a more elegant
+static site generator as writing and managing everything from scratch is
+starting to make everything a bit more cumbersome.</p>
+]]>
+</description>
+</item>
+
+<item>
 <title>Corebooting a Thinkpad X220</title>
 <guid>https://brycevandegrift.xyz/blog/corebooting-a-thinkpad-x220/corebooting-a-thinkpad-x220.html</guid>
 <link>https://brycevandegrift.xyz/blog/corebooting-a-thinkpad-x220/corebooting-a-thinkpad-x220.html</link>
