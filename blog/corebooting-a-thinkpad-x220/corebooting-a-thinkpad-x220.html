@@ -55,7 +55,10 @@ packages as well as flashrom using these commands:</p>
 <span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> clone https://review.coreboot.org/flashrom.git</span>
 <span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a><span class="bu">cd</span> flashrom</span>
 <span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a><span class="fu">make</span> <span class="at">-j3</span> <span class="kw">&amp;&amp;</span> <span class="fu">sudo</span> make install</span></code></pre></div>
-<p>Now we need to install ifdtool on the Raspberry PI, you can do that
+<p>Now we need to download the Coreboot repo on our Raspberry PI.</p>
+<div class="sourceCode" id="cb0"><pre class"sourceCode sh"><code class="sourceCode bash"><span id="cb0-1"><a href="#cb0-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> clone --recursive https://review.coreboot.org/coreboot.git ~/coreboot</span></code></pre></div>
+</div>
+<p>Next we need to install ifdtool on the Raspberry PI, you can do that
 by running:</p>
 <div class="sourceCode" id="cb4"><pre class="sourceCode sh"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="bu">cd</span> ~/coreboot/util/ifdtool</span>
 <span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="fu">make</span> <span class="at">-j3</span> <span class="kw">&amp;&amp;</span> <span class="fu">sudo</span> make install</span></code></pre></div>
@@ -115,7 +118,8 @@ ahead, however it might take anywhere from a few hours to a few
 <strong>DAYS</strong>, so be warned. I copied my “.bin” files to my
 laptop in order to compile faster.</p>
 <p>Now we want to download the Coreboot repo onto our computer that we
-are compiling Coreboot on. (This may take a while).</p>
+are compiling Coreboot on. (This may take a while).
+(If you are compiling Coreboot on your Raspberry PI you can skip this).</p>
 <div class="sourceCode" id="cb13"><pre
 class="sourceCode sh"><code class="sourceCode bash"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> clone <span class="at">--recursive</span> https://review.coreboot.org/coreboot.git ~/coreboot</span></code></pre></div>
 <blockquote>
