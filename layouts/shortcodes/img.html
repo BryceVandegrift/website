@@ -1,0 +1,21 @@
+<!--
+	class: class of figure
+	link: url of image
+	alt: alt text
+	caption: caption
+	mouse: text when moused over
+-->
+
+<figure {{ with .Get "class" }}class="{{.}}"{{ end -}}>
+	{{- with .Get "link"}}<a href="{{.}}">{{ end -}}
+		<img src="{{ .Get "src" }}"
+			{{- with .Get "mouse" }} title="{{.}}"{{ end -}}
+			{{- with .Get "alt" }} alt="{{.}}"{{ end -}}
+		>
+		{{- if .Get "link"}}</a>{{ end -}}
+		{{- with .Get "caption" -}}
+		<figcaption>
+		{{- . -}}
+		</figcaption>
+		{{- end -}}
+</figure>

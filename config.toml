@@ -1,0 +1,18 @@
+baseURL = "https://brycevandegrift.xyz"
+languageCode = "en-us"
+title = "Bryce Vandegrift's Website"
+
+[params]
+	favicon = "/icon.ico"
+
+[outputs]
+home = ["HTML", "RSS"]
+section = ["HTML"]
+taxonomyTerm = ["HTML"]
+taxonomy = ["HTML"]
+
+
+[outputFormats]
+	[outputFormats.RSS]
+	mediatype = "application/rss"
+	baseName = "rss"

@@ -1,0 +1,20 @@
+<rss version="2.0">
+	<channel>
+		<title>{{ .Site.Title }}</title>
+		<link>{{ .Permalink }}</link>
+		<description>Updates to Bryce Vandegrift's blog</description>{{ with .Site.LanguageCode }}
+		<language>{{.}}</language>{{end}}
+		{{ with .OutputFormats.Get "RSS" }}
+		{{ printf "<link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
+		{{ end }}
+		{{ range (.Site.GetPage "blog").Pages }}
+		<item>
+			<title>{{ .Title }}</title>
+			<link>{{ .Permalink }}</link>
+			<pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+			<guid>{{ .Permalink }}</guid>
+			<description>{{- .Content | html -}}</description>
+		</item>
+		{{ end }}
+	</channel>
+</rss>
