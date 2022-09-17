@@ -6,10 +6,10 @@ title = "Bryce Vandegrift's Website"
 	favicon = "/icon.ico"
 
 [outputs]
-home = ["HTML", "RSS"]
-section = ["HTML"]
-taxonomyTerm = ["HTML"]
-taxonomy = ["HTML"]
+	home = ["HTML", "RSS"]
+	section = ["HTML"]
+	taxonomyTerm = ["HTML"]
+	taxonomy = ["HTML"]
 
 
 [outputFormats]
