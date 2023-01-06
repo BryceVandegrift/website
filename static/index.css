@@ -136,3 +136,7 @@ a:hover {
         height: 25%;
         float: right;
 }
+
+.right-img {
+	float: right;
+}
