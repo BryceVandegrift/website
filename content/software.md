@@ -18,12 +18,20 @@ I truly think that Unix based/like systems are superior to any other operating s
 
 #### Web Browser
 
-My web browser of choice is [Qutebrowser](https://qutebrowser.org/).
-Qutebrowser is a keyboard driven web browser that uses Vim key bindings by default.
-It's very lightweight compared to almost every other major web browser out there like Chrome, Edge, and even Firefox.
-Qutebrowser can be configured in Python making it easy to program in extra features without any hassle.
-My only gripe with Qutebrowser is that it is written in Python rather than a compiled language, but that can be easily forgiven.
-It is by far the best web browser I have used so far.
+My web browser of choice is [Firefox](https://www.mozilla.org/en-US/firefox/new/).
+I make sure to configure Firefox to disable all telemetry, minimize the browser
+footprint, reduce tracking, and more. This is usually changed in the
+`about:config` page for Firefox. Although I used to use [Qutebrowser](https://qutebrowser.org/)
+as my main web browser, it's downsides proved to great for me to use (you can
+read more [here](https://brycevandegrift.xyz/blog/why-i-am-switching-to-firefox/)).
+I also have a few extensions that I make sure to use for Firefox to make it
+even better but also to block trackers and advertisements. These include:
+
+- [uBlockOrigin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) (blocks ads and trackers)
+- [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/) (for CDN tracking)
+- [ClearURLs](https://addons.mozilla.org/en-US/android/addon/clearurls/) (for URL tracking)
+- [Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/) (for redirecting to privacy respecting websites)
+- [Tridactyl](https://addons.mozilla.org/en-US/firefox/addon/tridactyl-vim/) (for Vim keybindings)
 
 #### Desktop Environment/Window Manager
 
@@ -58,37 +66,63 @@ However, if I need to do something where a graphical file manager is very useful
 
 #### Documents, Spreadsheets, Etc.
 
-I use [Libre Office](https://www.libreoffice.org/).
-Don't pay for Microsoft Office!!!
-Libre Office can do everything you need for FREE!
-Although I use Libre Office for most document-like needs, I am thinking about using other programs.
-[groff](https://www.gnu.org/software/groff/) and [LaTeX](https://www.latex-project.org/) are both promising looking document compilers.
-[sc-im](https://github.com/andmarti1424/sc-im) is also a very nice looking spreadsheet editor with various features.
+For creating documents I have a few systems that I like to use.
+For short notes and quick write ups with plain text files or markdown files
+I use [Pandoc](https://pandoc.org/) to convert my quick notes to documents or to any other formats.
+
+For somewhat longer and more precise (but still somewhat short) documents I use
+[groff](https://www.gnu.org/software/groff/)/troff for creating documents in the terminal.
+
+For professional work and long papers I use [LaTeX/XeLaTeX](https://www.latex-project.org/) for creating
+documents as it makes the process for creating title pages, formatting,
+citations, bibliographies, and etc. easier than using groff/troff. It definitely
+beats using [Microshaft](http://catb.org/jargon/html/M/Microsloth-Windows.html) Word.
+
+For spreadsheets I use [sc-im](https://github.com/andmarti1424/sc-im).
+It's a simple terminal spreadsheet editor that has Vim keybindings by
+default. It has lots of builtin features like wide character support, key
+mappings, GNUPlot support, and the list goes on and on. It truly is the
+Vim of spreadsheet programs.
 
 #### Video and Audio
 
 For video I use [mpv](https://mpv.io/), almost everyone is using it nowadays and it's very versatile.
-For audio I use [mpd](https://www.musicpd.org/) and [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp).
-mpd is the daemon that runs underneith ncmpcpp that sorts the music, plays the music, and etc.
-ncmpcpp is a very feature rich client for mpd that works very well.
+There isn't much more I can say about mpv other than it's my favorite video player.
 
-#### Picture and Document Viewing
+For audio I use [mpd](https://www.musicpd.org/) and [mpc](https://www.musicpd.org/clients/mpc/).
+mpd is the daemon that runs underneath mpc that sorts the music, plays the music, and etc.
+mpc is a very simple but useful client for mpd that make scripting extremely easy.
 
-For image viewing I use [sxiv](https://github.com/muennich/sxiv) because it's very simple.
+For editing video and audio I use [FFmpeg](https://ffmpeg.org/) as my main video editor.
+FFmpeg is perhaps the gold standard for all video/audio editors, not just terminal
+editors. It can manipulate video and audio streams in almost any format and
+it's amazingly fast.
+
+#### Pictures and Documents
+
+For image viewing I use [sxiv](https://github.com/muennich/sxiv) because it's very simple
+and follows closely with the Suckless philosophy.
+
 For document viewing I use [zathura](https://pwmt.org/projects/zathura/) with different add-ons for PDF and document viewing.
-And finally, for presentations, I use [sent](https://tools.suckless.org/sent/) for its simplicity.
+These include `zathura-cb` for comic book support, `zathura-djvu` for DjVu
+support, `zathura-pdf-mupdf` for PDF support, and `zathura-ps` for Postscript
+support.
+
+And finally, for presentations, I use [sent](https://tools.suckless.org/sent/) for its simplicity
+as it can effortlessly turn plain text files into simple presentations.
 
 #### Mail
 
-I use [neomutt](https://neomutt.org/), which is a "better" version of mutt.
-I use a terminal based email client because when it comes to webmail, it can take forever to actually get to your email.
-First you have to open a browser, then go to your webmail site, then login.
-Neomutt does all of that for you.
+I use [aerc](https://aerc-mail.org/) for email.
+aerc is a terminal email client written in Go that has a lot of features that
+I find particularly useful like Vim keybindings, HTML email rendering, a tmux
+like embedded terminal system, and more.
 
-### Misc Software
+#### Image Editing
 
-This is misc. software I use that does not really fit into any category.
+For making small or sudble changes to images I use [ImageMagick](https://imagemagick.org/index.php).
+For creating images or making larger edits I use [GIMP](https://www.gimp.org/).
 
-- Torrents: [qBittorrent](https://www.qbittorrent.org/)
-- Image Editors: [Inkscape](https://inkscape.org/) for vector graphics, and [GIMP](https://www.gimp.org/) for everything else.
-- Audio/Video Editing: [FFmpeg](https://ffmpeg.org/)
+#### Torrents
+
+For downloading and seeding torrents I use [transmission-cli](https://transmissionbt.com/).

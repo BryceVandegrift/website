@@ -8,17 +8,17 @@ draft: false
 
 #### CPU
 
-My CPU is an AMD Athlon 3000g.
-When it comes to CPU and GPU power, I really don't need much.
-For me, a dual core CPU is enough, not only that but it's a pretty good deal.
-For only $50 you get 2 cores, 4 threads, at around 3.5 GHz, not only that but the Athlon uses the Zen+ architecture.
+My CPU is an AMD Ryzen 4600g.
+When it comes to CPU and GPU power, I really don't need much, so a 6 core
+12 thread CPU is definitely enough for me. The most I do with it is compiling
+large programs and video editing.
 You can even overclock the CPU if you want a little extra performance.
 
 #### GPU
 
-I don't use a discrete GPU, I just use the built in graphics that come with the Athlon 3000g.
-The Athlon uses Vega 2 at 1.1 GHz which is pretty OK, but you can always overclock it if you want extra graphical performance.
-I don't overclock my graphics because most of the games I play are very light.
+I don't use a discrete GPU, I just use the built in graphics that come with my AMD 4600g.
+This GPU/APU uses Radeon at 1.9 GHz which is pretty OK, but you can always overclock it if you want extra graphical performance.
+I don't overclock my graphics because I don't really play any video games, especially on my computer.
 
 #### Motherboard
 
@@ -66,14 +66,14 @@ On one hand, it runs Debian Based distributions perfectly fine, but on the other
 Believe it or not, Arch Linux works perfectly fine on this laptop.
 Battery life on this laptop is actually amazing!
 I have used this laptop for hours at a time and haven't come close to draining the battery.
-Overall, I would give this laptop an 8/10, very good, but could use some improvements.
+Overall, I would give this laptop an 7.5/10, good, but could use some improvements.
 
 #### Lenovo Thinkpad
 My other laptop is a Lenovo Thinkpad X220.
 I prefer to use this laptop over the Ideapad.
 First things first, Thinkpads are built like tanks.
 I could drop this laptop from a rooftop and it will probably still work afterwords.
-Although this laptop isn't that fast, as you can tell, I don't really need a fast computer to be happy.
+Although this laptop isn't that fast, as you can tell, I don't really need a fast computer for my work.
 All of my computing can easily be done on a 10 year old computer.
 I also replaced the stock BIOS on this laptop with [Coreboot](https://coreboot.org/).
 
@@ -90,7 +90,9 @@ Pretty rad.
 
 #### Mouse
 
-My mouse is just a generic wired mouse.
+My mouse is Logitech three button mouse. Why?
+Because it's the best mouse that I currently have and I barely use my mouse as
+it is, so I don't really mind.
 I don't prefer wireless mice because I think that replacing the batteries on them are annoying.
 
 #### Monitor
@@ -109,3 +111,4 @@ However, before you call me a hypocrite, I plan to not have a cell phone in futu
 I honestly think that a cell phone is just a dumbed down computer that can fit into your pocket.
 If that's the case, then why can't we have all the features of a computer but for a cell phone?
 If you want a cell phone that respects your privacy and is almost like a computer in your pocket, I recommend getting the [Librem 5](https://puri.sm/products/librem-5/) or De-Google an Android phone.
+I personally have a Google Pixel 3a that I flashed [Graphene OS](https://grapheneos.org/) onto.

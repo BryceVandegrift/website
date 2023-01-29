@@ -33,7 +33,7 @@ Here is a list of companies that you should probably not support and reasons why
 - Amazon: Collects shopping and other personal data. Forces sellers on their site to go out of business through extreme competition.
 - Twitter: Just a really bad social media platform to be on. Lots of SJWs, brainlets, and people with no common sense.
 - Facebook: Collects **OBSCENE** amounts of user data. And I mean **FACEBOOK COLLECTS TRUCKLOADS OF PERSONAL DATA**.
-- Google: Also collects loads of personal data, but has more spyware than Facebook. Google also manipulates search results, use DuckDuckGo instead.
+- Google: Also collects loads of personal data, but has more spyware than Facebook. Google also manipulates search results.
 - Microsoft: Windows, do I need to say more?
 - Zoom: Data collection and countless exploits and vulnerabilities. Avoid it.
 

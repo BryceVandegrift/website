@@ -15,8 +15,8 @@ Although there have been languages that have come close to it, I don't think any
 #### C++
 
 C++ is very similar to C but has a few differences.
-C++ has a lot more features than C but that also means that the speed is slower.
-I am also not a fan of the garbage collection implementation for C++.
+C++ has a lot more features than C but that also means that it is slower.
+I am also not a fan of object oriented programming, I very much dislike it.
 It's good if you want a speed advantage over other languages (except C), but want a lot of features that most modern languages offer.
 
 #### Java
@@ -88,7 +88,7 @@ Windows is also very prone to bugs, errors, and various glitches, this is a VERY
 Windows also has countless viruses and malware, including the OS ITSELF (Windows spies on you)!!!
 Windows is closed source which means that these problems will either take a long time to get fixed or never get fixed at all.
 The only redeeming factor of Windows is its game library, which is perhaps the biggest game library for PCs.
-Unless you play video games 24/7, DON'T USE WINDOWS!!!
+Unless you play video games 24/7, **DON'T USE WINDOWS!!!**
 
 #### Mac OS
 
@@ -198,8 +198,7 @@ Ethereum can use transactions to execute pieces of code called "smart contracts"
 In fact, there are already applications taking advantage of this feature.
 You can actually find things like exchanges, online games, and even websites run through the Ethereum network.
 When it comes to versatility, Ethereum takes the cake as the most versatile currency to date.
-It's perhaps one of the most useful cryptocurrencies created to date.
-Strongly recommend.
+Somewhat recommend.
 
 #### Monero
 

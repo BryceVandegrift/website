@@ -42,6 +42,8 @@ The Rigol DS1054Z has lots of features for its price.
 It's the only 4 channel scope I know that's below $500.
 It also has a 100MHz frequency range, a insanely good memory depth, and a great sample rate.
 If you want a starter oscilloscope, this is perhaps the best deal on the market.
+There are some features that are locked behind a payment system for this
+oscilloscope, but you can bypass them using [this](https://gotroot.ca/rigol/riglol/) website.
 
 #### Programmer
 

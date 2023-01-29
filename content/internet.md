@@ -21,10 +21,11 @@ This can lead to thousands of people's personal info being stolen, not good.
 Internet security is one thing, but internet privacy is way worse currently.
 If you're apart of the majority of the population and you use Windows with Chrome, as well as the Google search engine, then congrats, you're being spied on.
 All three of those items I just mentioned are closed source programs that sell your personal info for money $$$.
-And yes, WINDOWS SPIES ON YOU, in case you were wondering.
+And yes, **WINDOWS SPIES ON YOU**, in case you were wondering.
 Same goes for a lot of websites on the internet like Google, Facebook, YouTube, Instagram, and etc.
 However, you can avoid this, you can stop or mitigate the spying done on you.
-You can install a free/open source OS like Linux or BSD and you can find alternative search engines as well as installing a web browser that respects your privacy like Brave, LibreWolf, or really anything besides Chrome and Edge.
+You can install a free/open source OS like Linux or BSD and you can find alternative search engines as well as installing a web browser
+that respects your privacy like Brave, Firefox, Qutebrowser, LibreWolf, or really anything besides Chrome and Edge.
 Only you can help stop the mass surveillance on the internet by using free and open source software.
 
 ### The Internet is Bloated
@@ -33,10 +34,10 @@ The internet is way too bloated and slow.
 How many times have you visited a website and it takes forever to load?
 A lot a websites recently have decided that having a website that loads quickly and takes up not much space isn't important.
 A lot of websites that seem like they should be simple like recipe or educational sites are littered with countless ads and useless JavaScript.
-I've actually seen websites where, it's just plain text on a background, but for some reason, it uses like 5 paragraphs of JavaScript, JUST USE HTML!
+I've actually seen websites where, it's just plain text on a background, but for some reason, it uses like 5 paragraphs of JavaScript, **JUST USE HTML!**
 Making your website bloated takes up more internet bandwidth and wastes the users time.
 When you design your website, you should account for all types of people in all types of locations.
-Just because your website loads in 0.1 seconds with you city fiber connection, doesn't mean that it will do the same for someone living in the country with a dial-up connection.
+Just because your website loads in 0.1 seconds with your city fiber connection, doesn't mean that it will do the same for someone living in the country with a dial-up connection.
 If you want to make a website that's actually responsive, fast, and useful, here are some things you should consider/do:
 
 {{< img src="/p/world.gif" mouse="The world-wide web" >}}
@@ -56,7 +57,6 @@ That goes for a lot of websites today, if you say something that isn't "politica
 I think that this is extremely stupid because it does not people actually voice their opinions which is the whole point of social media.
 You have to right to be rude.
 [Here is a link](http://esr.ibiblio.org/?p=8609) to a post made by Eric S. Raymond, one of the founders of the Open Source Initiative, regarding his thoughts on this subject.
-Remember to think for yourself, don't go with the flow.
 
 Believe it or not, big search engines like Google and Bing actually censor search results.
 Search engines like these straight up remove search results that they do agree with or don't like.
@@ -68,4 +68,3 @@ Don't let anyone control what you can and can't see.
 The internet can be "fixed", however it's becoming more and more unfixable over time.
 If website creators took these 3 points to heart when making a website, the web would be a better place.
 There have been efforts to make this possible, protocols like Gopher or Gemini have been created to make the modern web more bearable.
-If we work together, we can make the internet great again.
