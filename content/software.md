@@ -4,7 +4,7 @@ date: 2022-09-03T17:59:34-05:00
 draft: false
 ---
 
-### OS
+## OS
 
 {{< img src="/p/void.png" link="https://voidlinux.org" >}}
 
@@ -14,9 +14,9 @@ I use Void Linux because it is highly customizable and uses very little system r
 For Linux beginners, I recommend Linux Mint since it is very user friendly.
 I truly think that Unix based/like systems are superior to any other operating system.
 
-### Programs
+## Programs
 
-#### Web Browser
+### Web Browser
 
 My web browser of choice is [Firefox](https://www.mozilla.org/en-US/firefox/new/).
 I make sure to configure Firefox to disable all telemetry, minimize the browser
@@ -33,7 +33,7 @@ even better but also to block trackers and advertisements. These include:
 - [Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/) (for redirecting to privacy respecting websites)
 - [Tridactyl](https://addons.mozilla.org/en-US/firefox/addon/tridactyl-vim/) (for Vim keybindings)
 
-#### Desktop Environment/Window Manager
+### Desktop Environment/Window Manager
 
 My window manager of choice is [dwm](https://dwm.suckless.org/) (dynamic window manager).
 I was pretty hesitant when I first switched over to a window manager because it seemed pretty tough to use.
@@ -41,30 +41,30 @@ However, I eventually got the hang of it and now I think that a window manager i
 I use dwm in particular because it takes up very little system resources and it is very customizable.
 Although it takes some knowledge and skill to learn and customize dwm, it is well worth the trouble.
 
-#### Terminal
+### Terminal
 
 I use [st](https://st.suckless.org/) (suckless/simple terminal) for my terminal.
 st is very small and uses barely any system resources, it is also pretty customizable and extensible.
 I goes along pretty well with dwm.
 
-#### Shell
+### Shell
 
 For my shell, I use [zsh](https://zsh.org/).
 It's compatible with bash and has a few features that I find very useful like syntax highlighting and auto completion.
 
-#### Text/Code Editor
+### Text/Code Editor
 
 For text and code editing I use [Neovim](https://neovim.io/).
 Neovim is a community driven fork of the popular Vim editor with a cleaner code base and other features like first class Lua support, sensible defaults, and is fully compatible with Vim.
 I really like being able to use Lua to write scripts for Neovim rather than Vimscript, as I think that programming in Vimscript can be a pain sometimes.
 I think that Neovim is the superior editor to Vim.
 
-#### File Manager
+### File Manager
 
 Normally for browsing files I just use the terminal.
 However, if I need to do something where a graphical file manager is very useful (like moving multiple files) then I use pcmanfm, which is very lightweight and has lots of useful features.
 
-#### Documents, Spreadsheets, Etc.
+### Documents, Spreadsheets, Etc.
 
 For creating documents I have a few systems that I like to use.
 For short notes and quick write ups with plain text files or markdown files
@@ -84,7 +84,7 @@ default. It has lots of builtin features like wide character support, key
 mappings, GNUPlot support, and the list goes on and on. It truly is the
 Vim of spreadsheet programs.
 
-#### Video and Audio
+### Video and Audio
 
 For video I use [mpv](https://mpv.io/), almost everyone is using it nowadays and it's very versatile.
 There isn't much more I can say about mpv other than it's my favorite video player.
@@ -98,7 +98,7 @@ FFmpeg is perhaps the gold standard for all video/audio editors, not just termin
 editors. It can manipulate video and audio streams in almost any format and
 it's amazingly fast.
 
-#### Pictures and Documents
+### Pictures and Documents
 
 For image viewing I use [sxiv](https://github.com/muennich/sxiv) because it's very simple
 and follows closely with the Suckless philosophy.
@@ -111,18 +111,18 @@ support.
 And finally, for presentations, I use [sent](https://tools.suckless.org/sent/) for its simplicity
 as it can effortlessly turn plain text files into simple presentations.
 
-#### Mail
+### Mail
 
 I use [aerc](https://aerc-mail.org/) for email.
 aerc is a terminal email client written in Go that has a lot of features that
 I find particularly useful like Vim keybindings, HTML email rendering, a tmux
 like embedded terminal system, and more.
 
-#### Image Editing
+### Image Editing
 
 For making small or sudble changes to images I use [ImageMagick](https://imagemagick.org/index.php).
 For creating images or making larger edits I use [GIMP](https://www.gimp.org/).
 
-#### Torrents
+### Torrents
 
 For downloading and seeding torrents I use [transmission-cli](https://transmissionbt.com/).

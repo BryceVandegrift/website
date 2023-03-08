@@ -18,7 +18,7 @@ kernel whatsoever, because it does have a use. I am here to take a look at
 what Rust does and doesn't do good and see if that lines up with the needs of
 the Linux kernel.
 
-### Speed/Performance
+## Speed/Performance
 
 The average speed of programs written in Rust is about on par with programs
 written in C from what I've seen. You can look at some of the benchmarks
@@ -75,7 +75,7 @@ and optimized Rust is about a second behind C which is what I would expect.
 A bit of a performance hit is what I would expect for a language that focuses
 more on memory safety rather than pure speed.
 
-### Size
+## Size
 
 When it comes to size, Rust and C are both around the same as well. Although
 I sometimes do hear complaints about Rust's standard library being large, the
@@ -87,7 +87,7 @@ So Rust can actually end up with smaller binaries than C on some occasions,
 but in reality I would honestly expect the same size (if not slightly bigger)
 binary sizes for Rust for most cases.
 
-### Compiler/Frontend
+## Compiler/Frontend
 
 The Rust compiler is probably one of Rust's biggest strengths compared to C.
 The Rust compiler is a very helpful tool for developers. There are other just as
@@ -156,7 +156,7 @@ many other languages use LLVM and they generate pretty good results most of
 the time. Is it the most ideal frontend when working with the Linux kernel,
 probably not, but is it the worst? Definitely not.
 
-### Memory Safety
+## Memory Safety
 
 What everyone knows Rust for, it's memory safety. The biggest tool that Rust
 has at it's disposal to try to guarantee memory safety is the borrow checker.
@@ -174,7 +174,7 @@ If used correctly, I think that Rust's memory safety could make the Linux
 kernel even more robust than it already is with little to no sacrifices.
 
 
-### Conclusion
+## Conclusion
 
 Overall, I think that the inclusion of Rust in the Linux kernel isn't too bad
 of a decision. Don't get me wrong, there are some bad or not fully fleshed

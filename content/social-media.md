@@ -4,7 +4,7 @@ date: 2022-09-03T17:58:32-05:00
 draft: false
 ---
 
-### Cancel Culture is dumb
+## Cancel Culture is dumb
 
 I think that cancel culture is completely and utterly stupid.
 Cancel culture is basically just modern day witch hunts.
@@ -21,7 +21,7 @@ Anyways, after this happened, he actually got fired from Marvel Studios/Disney, 
 I think this just goes to show out of hand this has gotten.
 You could actually get fired for what you say on the internet.
 
-### It is addictive
+## It is addictive
 
 Although most social media websites were not originally made to be addictive, they ended up becoming addictive in the end.
 There's a reason why you can't stop scrolling through your social media feed until 1 A.M. every night.
@@ -32,7 +32,7 @@ I recommend that if you want to be free from these addictive habits, you should 
 This is just a side note, but don't use Twitter or Facebook and it's products.
 These companies prey on collecting user data and have very horrible business practices in general.
 
-### It is used for mass control
+## It is used for mass control
 
 {{< img src="/p/evilMedia.png" mouse="Mean Twitter" >}}
 

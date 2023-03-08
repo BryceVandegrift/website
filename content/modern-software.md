@@ -4,7 +4,7 @@ date: 2022-09-03T17:58:51-05:00
 draft: false
 ---
 
-### Software should be free and open source
+## Software should be free and open source
 
 {{< img src="/p/gnu.png" link="https://gnu.org" >}}
 
@@ -17,14 +17,14 @@ There are more speeches available [here](https://www.gnu.org/philosophy/speeches
 
 **If you care about your freedom, you should use free software.**
 
-### The current state of software companies
+## The current state of software companies
 
 As of the time I am writing (or typing) this (2021), most software companies don't care about good programmers anymore.
 Nowadays, most software companies care about "equal representation", but they don't really care weather someone is actually good at programming.
 Now don't get me wrong, some software companies don't do this, but MOST of the biggest companies on the planet do this (i.e. Microsoft, Google, Facebook).
 This is one of the reasons why a lot of software that these companies make are either bloated, slow, complicated, or all three.
 
-### Why you should not support these software companies
+## Why you should not support these software companies
 
 Most of the biggest companies on the planet are also some of the most unethical companies as well.
 Here is a list of companies that you should probably not support and reasons why:

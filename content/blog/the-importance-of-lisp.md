@@ -38,7 +38,7 @@ lists like so:
 It takes a bit of getting used to, but Lisp's notation makes it very easy to
 string together compound expressions.
 
-### Practical Lisp
+## Practical Lisp
 
 Nowadays there are two different major dialects of Lisp, **Common Lisp** and
 **Scheme**. There are not that many differences between Common Lisp and
@@ -80,7 +80,7 @@ Now this may look fairly useless at the moment because we can just call
 to pass functions as arguments opens a whole new world of possibilities when
 it comes to programming.
 
-### Higher-Order Functions
+## Higher-Order Functions
 
 This brings us to an important topic, anonymous functions using the `lambda`
 keyword. The `lambda` keyword creates a one-time use function, this can be
@@ -102,7 +102,7 @@ Lisp was one of, if not the first language to implement higher-order functions
 in a programming language. Other high-level programming languages like Lua,
 Python, Haskell, and more followed suit much later.
 
-### Recursion
+## Recursion
 
 Another important concept pioneered by Lisp in the world of programming is
 recursion. A function is a recursive function when it calls itself, pretty
@@ -129,7 +129,7 @@ easy to translate recursive mathematical functions to Lisp expressions.
 Just like higher-order functions, Lisp was one of the first programming languages
 to implement this and other languages followed afterwards.
 
-### Hold Up
+## Hold Up
 
 Now, before you go out and write your next project in Lisp, you should keep
 something in mind. Lisp is **not** the fastest or smallest language out there, it

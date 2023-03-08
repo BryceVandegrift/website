@@ -1,49 +1,37 @@
 {{ partial "header.html" . -}}
 <h1>{{ .Title }}</h1>
-<nav>
-	<h2>Links:</h2>
-	<ul>
-		<li><a href="/blog/">Blog</a></li>
-		<li><a href="https://www.youtube.com/@brycevandegrift/">YouTube</a></li>
-		<li><a href="https://odysee.com/@bryce:c">Odysee</a></li>
-		<li><a href="https://sr.ht/~bpv/">Git</a></li>
-		<li><a href="/donate/">Donate</a></li>
-		<li><a href="/rss.xml">RSS</a></li>
-	</ul>
-</nav>
-<div id="main">
-	<img  alt="My Photo" src="/p/pic.png" style="height: 175px; float: right; border-radius: 5px;">
-               	<p>Hi, my name is Bryce Vandegrift. I make software
-               	and other things as well. My website does not
-		require any Javascript to run, just simple HTML and CSS.</p>
-               	<p>This is my website, feel free to look around.
-               	It has some stuff you might like.</p>
-               	<h2>My Projects and Works:</h2>
-               	<ul>
-                       	<li><a href="/software-projects/">My Software</a></li>
-               	</ul>
-               	<h2>Things I Use:</h2>
-               	<ul>
-                       	<li><a href="/software/">Software</a></li>
-                       	<li><a href="/hardware/">Hardware</a></li>
-                       	<li><a href="/equipment/">Equipment</a></li>
-               	</ul>
-               	<h2>My Thoughts About Things:</h2>
-               	<ul>
-                       	<li>My thoughts about <a href="/internet/">the internet</a>.</li>
-                       	<li>What's wrong with a lot of <a href="/modern-software/">modern software</a>.</li>
-                       	<li>Why you shouldn't use <a href="/social-media/">social media</a>.</li>
-	 		<li><a href="/opinions/">Other opinions</a> that I have about technology.</li>
-                       	<li>Some <a href="/websites/">cool websites</a> that I like.</li>
-               	</ul>
-               	<h2>Contact Me</h2>
-               	<ul>
-                       	<li>Email: <a href="mailto:bryce@brycevandegrift.xyz">bryce@brycevandegrift.xyz</a></li>
-                       	<li>Matrix: @bpv:halogen.city</li>
-			<li>IRC: bpv on <code>irc.libera.chat</code></li>
-               	</ul>
-               	<p><a href="/bpv.gpg">My Public GPG Key for Encryption</a><br>
-               	or you can run this command to import my GPG key:</p>
-               	<code>curl -fL "https://brycevandegrift.xyz/bpv.gpg" | gpg --import</code>
-</div>
+{{ partial "navbar.html" . -}}
+	<img alt="My Photo" src="/p/pic.png" style="width: 250px; float: right; margin: 10px;">
+        <p>Hi, my name is Bryce Vandegrift. I make software
+        and other things as well. My website does not
+	require any Javascript to run, just simple HTML and CSS.
+        This is my website, feel free to look around.
+        It has some stuff you might like.</p>
+        <h2>My Projects and Works:</h2>
+        <ul>
+                <li><a href="/software-projects/">My Software</a></li>
+        </ul>
+        <h2>Things I Use:</h2>
+        <ul>
+                <li><a href="/software/">Software</a></li>
+                <li><a href="/hardware/">Hardware</a></li>
+                <li><a href="/equipment/">Equipment</a></li>
+        </ul>
+        <h2>My Thoughts About Things:</h2>
+        <ul>
+                <li>My thoughts about <a href="/internet/">the internet</a>.</li>
+                <li>What's wrong with a lot of <a href="/modern-software/">modern software</a>.</li>
+                <li>Why you shouldn't use <a href="/social-media/">social media</a>.</li>
+	 	<li><a href="/opinions/">Other opinions</a> that I have about technology.</li>
+                <li>Some <a href="/websites/">cool websites</a> that I like.</li>
+        </ul>
+        <h2>Contact Me</h2>
+        <ul>
+                <li>Email: <a href="mailto:bryce@brycevandegrift.xyz">bryce@brycevandegrift.xyz</a></li>
+                <li>Matrix: @bpv:halogen.city</li>
+		<li>IRC: bpv on <code>irc.libera.chat</code></li>
+        </ul>
+        <p><a href="/bpv.gpg">My Public GPG Key for Encryption</a><br>
+        or you can run this command to import my GPG key:</p>
+        <code>curl -fL "https://brycevandegrift.xyz/bpv.gpg" | gpg --import</code>
 {{ partial "footer.html" . }}

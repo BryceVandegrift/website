@@ -6,7 +6,7 @@ draft: false
 
 {{< img src="/p/standby.jpg" mouse="Please Standby" >}}
 
-### The Internet is Not Secure
+## The Internet is Not Secure
 
 To be honest, the current state of internet privacy and security is a joke.
 A lot of websites nowadays require you to create an account, which I think is stupid.
@@ -28,7 +28,7 @@ You can install a free/open source OS like Linux or BSD and you can find alterna
 that respects your privacy like Brave, Firefox, Qutebrowser, LibreWolf, or really anything besides Chrome and Edge.
 Only you can help stop the mass surveillance on the internet by using free and open source software.
 
-### The Internet is Bloated
+## The Internet is Bloated
 
 The internet is way too bloated and slow.
 How many times have you visited a website and it takes forever to load?
@@ -48,7 +48,7 @@ If you want to make a website that's actually responsive, fast, and useful, here
 - Use HTTP(S)/2 if possible, it provides faster loading times than normal HTTP(S)
 - Just don't add any useless to unused elements or features
  
-### The Internet is Censored
+## The Internet is Censored
 
 Things on the internet are censored all the time.
 This is not the fault of the internet, but the massive companies that basically run the internet.
@@ -63,8 +63,8 @@ Search engines like these straight up remove search results that they do agree w
 If you want a search engine that you can actually somewhat trust, use something like [DuckDuckGo](https://duckduckgo.com/), [Swisscows](https://swisscows.com/), or [SearX](https://searx.space/).
 Don't let anyone control what you can and can't see. 
 
-### Can the Internet be Fixed?
+## Can the Internet be Fixed?
 
 The internet can be "fixed", however it's becoming more and more unfixable over time.
 If website creators took these 3 points to heart when making a website, the web would be a better place.
-There have been efforts to make this possible, protocols like Gopher or Gemini have been created to make the modern web more bearable.
+There have been efforts to make this possible, protocols like Gemini have been created to make the modern web more bearable.

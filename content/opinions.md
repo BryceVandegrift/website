@@ -4,70 +4,70 @@ date: 2022-09-03T17:58:23-05:00
 draft: false
 ---
 
-### What I Think About Different Programming Languages
+## What I Think About Different Programming Languages
 
-#### C
+### C
 
 My personal favorite programming language.
 C is at a low enough level where programs are lightning fast, but it's also at a high enough level where it's pretty easy to get into and use.
 Although there have been languages that have come close to it, I don't think any other language can surpass C.
 
-#### C++
+### C++
 
 C++ is very similar to C but has a few differences.
 C++ has a lot more features than C but that also means that it is slower.
 I am also not a fan of object oriented programming, I very much dislike it.
 It's good if you want a speed advantage over other languages (except C), but want a lot of features that most modern languages offer.
 
-#### Java
+### Java
 
 Java was a very useful language.
 Keyword, WAS.
-Back in the early 2010's and late 2000's Java was the king of programming language because of the fact that it could be used on almost any machine that could run the Java Runtime Environment.
+Back in the early 2010's and late 2000's Java was the king of programming languages because of the fact that it could be used on almost any machine that could run the Java Runtime Environment.
 However, times have changed and Java isn't as useful as it used to be.
 Java still has it's uses with legacy code, but I think that it's a dying language.
 
-#### JavaScript
+### JavaScript
 
 I personally dislike JavaScript.
 It has weird syntax, it's not useful for anything outside the web/internet, and it's somewhat slow.
 Not only that, but some websites using JavaScript can do some pretty spooky things on your computer like find detailed info on your device (What hardware you're using), track you across websites, and it can even grab your IP address through Tor!
 Not only that, but the initial release of Javascript only took 12 days to make.
 
-#### R
+### R
 
 R does one thing, and it does it really well.
 R is mostly used for statistics, data/data visualization, and etc.
 If you need a language for those specific things, then R is your saving grace.
 
-#### HTML/CSS
+### HTML/CSS
 
 HTML(5) and CSS are the go to standard for creating websites.
 Almost any website you visit nowadays uses HTML and CSS (or a variant of CSS).
 It's also great at making simple documents.
 Very Good 👌.
 
-#### Python
+### Python
 
 Python is a very good language for beginners and people who want an "easy" language.
 However, to put it bluntly, Python sucks.
 Not only is it one of the slowest languages I know (more than 100 times slower than C some cases), but it doesn't even specialize like how R or HTML specializes.
 If you want to learn programming easily, start with Python, but make sure to move on to something else as soon as you feel confident.
 
-#### LISP
+### LISP
 
 The LISP family of programming languages are some of the most expressive and powerful programming languages that I have used.
 The idea of having every expression as a list is (in my opinion) genius.
 It makes writing an interpreter very easy and it also lets the programmer tackle a problem from any angle.
 I think that the LISP family of programming languages would be my favorite programming languages if their performance wasn't so abysmal.
 
-#### Haskell
+### Haskell
 
 Haskell is my favorite functional programming language.
 Although I'm not a big fan of Haskell's garbage collection system, I still find it a very enjoyable language to program in.
 My only other complaint is that Haskell's packaging system is a bit messy.
 
-#### Assembly
+### Assembly
 
 The speed demon of all languages.
 If you you thought that C was fast, then prepare yourself because Assembly is wayyyyyy faster.
@@ -77,9 +77,9 @@ Assembly language is also extremely non-portable and is used very sparsely outsi
 It is not for the faint of heart.
 If you need speed over anything else, use assembly.
 
-### What I Think About Different Operating Systems
+## What I Think About Different Operating Systems
 
-#### Windows
+### Windows
 
 Windows (specifically Windows 10) is a dumpster fire of an OS.
 First thing's first, built in graphics support is almost unheard of on Windows.
@@ -90,7 +90,7 @@ Windows is closed source which means that these problems will either take a long
 The only redeeming factor of Windows is its game library, which is perhaps the biggest game library for PCs.
 Unless you play video games 24/7, **DON'T USE WINDOWS!!!**
 
-#### Mac OS
+### Mac OS
 
 Mac OS (specifically OS X) isn't as bad as Windows, but it's not much better either.
 Although it does have less bugs, glitches, and malware on it, it's still pretty bad.
@@ -101,7 +101,7 @@ In a way, Mac OS goes against what Unix really stood for.
 Not only that but the game selection is really bad.
 Try not to use Mac OS...
 
-#### Linux (or GNU/Linux)
+### Linux (or GNU/Linux)
 
 I use Linux. I like Linux. I think you should use Linux too.
 When it comes to Linux, you don't have to use one or two specific versions, you can choose between hundreds if not thousands of different "distros".
@@ -111,9 +111,9 @@ I could write pages on why you should use Linux, but that would take too much ti
 Really, when it comes to Linux, you get freedom.
 If you want to find a distro for yourself, I would recommend that you go to [DistroWatch.com](https://distrowatch.com/).
 
-### Linux Distributions I Recommend (Ranked by Ease of Use)
+## Linux Distributions I Recommend (Ranked by Ease of Use)
 
-#### Linux Mint
+### Linux Mint
 
 Not the best Linux distro overall, but it's the best distro for beginners.
 Linux Mint (specifically Cinnamon) looks and feels pretty similar to Windows so Windows users will be right at home.
@@ -122,7 +122,7 @@ The only downsides are that firmware support is a bit hit or miss and it's prett
 However, it's still leagues better than Windows 10, Mac OS, or any other proprietary operating system.
 If you're coming to Linux from Windows, use this.
 
-#### Elementary OS
+### Elementary OS
 
 Elementary OS is very similar to Linux Mint.
 The only big difference is that Elementary OS it geared more towards Mac users with its UI.
@@ -131,7 +131,7 @@ In Elementary OS, you pay whatever you want for software, you can pay $5, $20, o
 Otherwise, Elementary OS is pretty much the same as Linux Mint.
 If you're coming to Linux from Mac OS, use this.
 
-#### Fedora
+### Fedora
 
 Fedora is still pretty easy to use, but it's a bit different.
 Fedora is meant more for work stations rather than general use.
@@ -141,7 +141,7 @@ Fedora is also picking up steam in the laptop industry due to it's stability and
 Believe it or not, Linux Torvalds, the creator of Linux, actually uses Fedora as his main OS.
 Fedora does not have that much documentation or help as other distributions, but it's still a pretty solid distribution.
 
-#### Manjaro
+### Manjaro
 
 Manjaro is where things get a bit more tricky.
 Manjaro is based on Arch, but it's a lot more user friendly than Arch.
@@ -151,7 +151,7 @@ That shouldn't scare you though, Manjaro is still very easy and VERY FAST.
 Because Manjaro is based on Arch, a bare-bones Linux distro, it takes up less space and system resources.
 Use Manjaro if you are somewhat knowledgeable with Linux or you REALLY need the performance boost.
 
-#### Arch
+### Arch
 
 Arch Linux is a bare-bones Linux distro which means that NOTHING is pre-installed for you, you install everything yourself through the terminal.
 This may sound daunting, but it's not as hard as you think (at least with the Arch Linux Wiki).
@@ -160,7 +160,7 @@ If you can't find a package in the official repository, then you can just use th
 I think that Arch Linux is the perfect balance between difficulty and usability.
 If you have some decent knowledge on Linux, and you want to customize/make your own system, then Arch Linux is perfect for you.
 
-#### Void Linux
+### Void Linux
 
 Void Linux is perhaps my favorite Linux distribution to date.
 It's very much like Arch Linux but has a lot less bloat and is a lot more "BSD like" than other Linux distributions.
@@ -168,7 +168,7 @@ It uses a simple init system (runit) rather than the bloated mess that is System
 The package manager (XBPS) is also a lot simplier and is more consistant that the Pacman package manager that Arch Linux uses.
 It also has support for Musl and Glib unlike most other Linux distributions which only choose Glib.
 
-#### Gentoo
+### Gentoo
 
 Gentoo is perhaps the most elite Linux distro out there (besides Linux from Scratch, but we don't talk about that).
 With Gentoo, you have to compile your packages, your libraries, and even your kernel from scratch.
@@ -179,9 +179,9 @@ Gentoo is very good for privacy since it has a variety of hardening options and 
 Gentoo is also pretty stable, which is nice.
 If you're up for a challenge, use Gentoo.
 
-### What I Think About Different Cryptocurrencies
+## What I Think About Different Cryptocurrencies
 
-#### Bitcoin
+### Bitcoin
 
 Bitcoin is the OG cryptocurrency.
 It may not be the best cryptocurrency, but it's definitely the most popular.
@@ -191,7 +191,7 @@ It's a lot harder for governments to find and seize Bitcoin/crypto funds despite
 Also, despite what you might think, Bitcoin is actually pretty stable, at least compared to FIAT currencies (which could collapse at literally any moment).
 Overall solid choice.
 
-#### Ethereum
+### Ethereum
 
 Ethereum takes the groundwork of Bitcoin and improves on it.
 Ethereum can use transactions to execute pieces of code called "smart contracts", this means that the Ethereum network can act as sort of a giant supercomputer.
@@ -200,7 +200,7 @@ You can actually find things like exchanges, online games, and even websites run
 When it comes to versatility, Ethereum takes the cake as the most versatile currency to date.
 Somewhat recommend.
 
-#### Monero
+### Monero
 
 Monero takes the semi-privacy aspect of cryptocurrency, and bumps it up to 11.
 Monero makes it impossible to track online payments and transfers.
@@ -210,7 +210,7 @@ You can buy and sell with Monero and nobody will be able to view your transactio
 I personally recommend using this currency whenever possible.
 Best cryptocurrency to date.
 
-#### Stable Coins
+### Stable Coins
 
 Stable coins are a mixed bag.
 Some stable coins are good, some stable coins are bad.
