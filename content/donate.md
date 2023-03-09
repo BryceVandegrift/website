@@ -11,10 +11,10 @@ I prefer crypto but anything at all is nice. Thanks :)
 ## Cryptocurrency
 
 {{< img src="/p/monero.png" >}}
-Monero: `4456hj6yn1pRM9UXcSqy2t7yEuX3Wsak2875JbrwURnPaqTgu4Q58qo2uSLdMPqbsdZ4T6HxXoEgJf3CDKnMvbecRUa6meg`
+Monero: `4456hj6yn1pRM9UXcSqy2t7yEuX3Wsak2875JbrwURnPaqTgu4Q58qo2uSLdMPqbsdZ4T6HxXoEgJf3CDKnMvbecRUa6meg` ([QR](/p/xmr-qr.png))
 
 {{< img src="/p/bitcoin.png" >}}
-Bitcoin: `bc1qh6hmj0c44l5fve25kj00mll6mpeev2jyf92q07`
+Bitcoin: `bc1qh6hmj0c44l5fve25kj00mll6mpeev2jyf92q07` ([QR](/p/btc-qr.png))
 
 OpenAlias: `brycevandegrift.xyz`
 
