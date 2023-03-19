@@ -4,7 +4,7 @@ date: 2022-09-03T17:59:17-05:00
 draft: false
 ---
 
-{{< img src="/p/standby.jpg" mouse="Please Standby" >}}
+{{< img src="/p/standby.webp" mouse="Please Standby" >}}
 
 ## The Internet is Not Secure
 

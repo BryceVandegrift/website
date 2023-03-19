@@ -41,7 +41,7 @@ adblocking mode if hosts adblocking isn't enough for you.
 
 ### Python
 
-{{< img src="/p/boomer-python.jpg" link="/p/boomer-python.jpg" class="right-img" >}}
+{{< img src="/p/boomer-python.webp" link="/p/boomer-python.webp" class="right-img" >}}
 
 Now I know that using Python as a language for writing a big application has
 some serious drawbacks, however in the case of Qutebrowser, writing it in

@@ -34,7 +34,7 @@ These companies prey on collecting user data and have very horrible business pra
 
 ## It is used for mass control
 
-{{< img src="/p/evilMedia.png" mouse="Mean Twitter" >}}
+{{< img src="/p/evilMedia.webp" mouse="Mean Twitter" >}}
 
 This point is kind of closely tied to the first point.
 Social media platforms (mostly Twitter) actually use their platform to enforce sort of a "hivemind".

@@ -113,7 +113,7 @@ If you still don't understand recursion then read this sentence again. ;)
 As an example, let's translate the equation for Fibonacci numbers into a
 Lisp expression. The mathematical definition is a follows:
 
-{{< img src="/p/fib.png" mouse="Fibonacci Number Equation" >}}
+{{< img src="/p/fib.webp" mouse="Recursive Fibonacci Equation" >}}
 
 A translation from mathematical notation into Lisp would look like this:
 
@@ -157,4 +157,4 @@ Lisp as a language is still very much alive and making improvements and
 innovations to this day. It is still a very good programming language for
 tackling many tasks and remains one of my favorite programming languages.
 
-{{< img src="/p/lisp.jpg" link="/p/lisp.jpg" >}}
+{{< img src="/p/lisp.webp" link="/p/lisp.webp" >}}

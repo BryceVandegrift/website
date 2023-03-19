@@ -6,7 +6,7 @@ draft: false
 
 ## OS
 
-{{< img src="/p/void.png" link="https://voidlinux.org" >}}
+{{< img src="/p/void.webp" link="https://voidlinux.org" >}}
 
 For my operating system I use [Void Linux](https://voidlinux.org/).
 When it comes to operating systems, you really can't go wrong with Linux.

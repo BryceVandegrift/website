@@ -45,4 +45,4 @@ The HAMMER file systems are also very neat.
 The HAMMER file systems have instant crash recovery, snapshots, support for multiple volumes, and much more.
 If you want a fast and efficient operating system, I would definitely recommend trying DragonFlyBSD.
 
-{{< img mouse="bsd" src="/p/bsd.png" >}}
+{{< img mouse="bsd" src="/p/bsd.webp" >}}

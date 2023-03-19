@@ -6,7 +6,7 @@ draft: false
 
 ## Software should be free and open source
 
-{{< img src="/p/gnu.png" link="https://gnu.org" >}}
+{{< img src="/p/gnu.webp" link="https://gnu.org" >}}
 
 The best software is free software.
 Not free as in free beer, but free as in freedom.
