@@ -3,9 +3,9 @@
 }
 
 html {
-        background-color: #32302F;
+        background-color: #111111;
 	word-wrap: break-word;
-	color: #ebdbb2;
+	color: #eeeeee;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -44,6 +44,15 @@ a {
 	color: #8ec07c;
 }
 
+a:hover {
+        color: #96db7d;
+        text-decoration: underline;
+}
+
+figure {
+	text-align: center;
+}
+
 code {
         /*background-color: rgba(0,0,0,0.5); */
 	font-family: monospace;
@@ -59,7 +68,7 @@ blockquote {
 }
 
 strong {
-	color: #b16286;
+	color: #fb4934;
 }
 
 pre {
@@ -97,51 +106,17 @@ nav ul li {
 	list-style: none;
 	display: block;
 	padding: 7px;
-	margin: 10px;
+	margin: 7px;
 	font-size: 20px;
 	float: left;
-	border-style: solid;
+	border: solid 2px #444444;
 	background-color: #222222;
-}
-
-a:hover {
-        color: #96db7d;
-        text-decoration: underline;
 }
 
 #smalltext {
         font-size: small;
 }
 
-#void {
-        width: 10%;
-        height: 10%;
-        float: right;
-        padding-right: 200px;
-        padding-top: 50px;
-}
-
 #small {
         font-size: 14px;
-}
-
-#inter {
-        text-align: center;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-        height: 50%
-}
-
-#soft {
-        width: 15%;
-        height: 15%;
-        float: right;
-}
-
-#media {
-        width: 25%;
-        height: 25%;
-        float: right;
 }
