@@ -23,7 +23,7 @@ If you want to visit me GitHub account you can find it here:
 
 I have all my personal configurations, scripts, and more in my dotfile
 repository. Feel free to use them however you want, you can find them
-[here](https://sr.ht/~bpv/Dotfiles/).
+[here](https://sr.ht/~bpv/dotfiles/).
 
 ### Suckless builds
 
