@@ -1,6 +1,7 @@
 <!--
 	class: class of figure
 	link: url of image
+	id: id of image
 	alt: alt text
 	caption: caption
 	mouse: text when moused over
@@ -10,6 +11,7 @@
 	{{- with .Get "link"}}<a href="{{.}}">{{ end -}}
 		<img src="{{ .Get "src" }}"
 			{{- with .Get "mouse" }} title="{{.}}"{{ end -}}
+			{{- with .Get "id" }} id="{{.}}"{{ end -}}
 			{{- with .Get "alt" }} alt="{{.}}"{{ end -}}
 		>
 		{{- if .Get "link"}}</a>{{ end -}}

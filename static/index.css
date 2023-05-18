@@ -120,3 +120,8 @@ nav ul li {
 #small {
         font-size: 14px;
 }
+
+#smallimg {
+	width: 35%;
+	height: 35%;
+}
