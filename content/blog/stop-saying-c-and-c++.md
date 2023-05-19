@@ -12,16 +12,16 @@ However, the problem is that when people say this term (C/C++) they make it
 seem like C and C++ are similar or closely related programming languages.
 **That is not true.** Although C++ was based off of C when it was first
 created, these two languages have slowly drifted apart over the years to the
-point where they share less and less in common.
+point where they share less and less in common[^1].
 
 ## C and C++ are VERY Different
 
 There is probably someone who is going to say, "Well you can write C code in
 a C++ program, so technically C is a subset of C++." The only problem is that
-you can write C code in [Rust](https://doc.rust-lang.org/nomicon/ffi.html),
-[Go](https://pkg.go.dev/cmd/cgo), [Kotlin](https://kotlinlang.org/docs/native-c-interop.html),
-and basically almost every other language out there! So should I refer to Rust,
-Go, and Kotlin as C/Rust, C/Go, and C/Kotlin[^1]? Obviously **no**.
+you can write C code in [Zig](https://ziglang.org/documentation/master/#C),
+[Go](https://pkg.go.dev/cmd/cgo), [Nim](https://github.com/nim-lang/Nim/wiki/Nim-for-C-programmers),
+and basically almost every other language out there has a C FFI! So should I refer to Zig,
+Go, and Nim as C/Zig, C/Go, and C/Nim? Obviously **no**.
 
 ### C with Classes
 
@@ -102,8 +102,11 @@ gcd.c:6:1: error: expected unqualified-id before '{' token
 
 This makes it almost impossible to use K&R syntax with C++ unless you format
 your function arguments according to [ASCI C](https://gist.github.com/nicholatian/2d9514feaf9a95e7561a433ac404b141).
+(I know not many people care about K&R syntax, but I think that it is still an
+important difference).
 
-There are also many other things in C that will not transfer over to C++, but
+There are also many other things in C that will not transfer over to C++ like
+complex numbers, default return types, and more, but
 I think you already get the picture by now. These incompatibilities are not
 anything that would break the entire C language if used in conjunction with
 C++, but these small differences slowly add up.
@@ -190,8 +193,8 @@ If you're referring to both used separately say something like:
 Only if you're using C *together* with C++ would it be acceptable to
 say C/C++.
 
-[^1]: Java/Kotlin would honestly be more accurate, but you don't hear people
-refer to Java and Kotlin by that title. So why should you call C and C++ "C/C++"?
+[^1]: Please note that although these are real concerns with C and C++,
+this is more of a rant than anything else (and somewhat satire).
 
 [^2]: Fun fact: C++ *was* actually called ["C with Classes"](https://www.stroustrup.com/bs_faq.html#invention) before it was
 initially released.
