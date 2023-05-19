@@ -178,7 +178,7 @@ All they are doing is scaring away competent C developers.
 
 If you're referring to a C program or programmer just say "C".
 If you're referring to a C++ program or programmer just say "C++".
-If you're referring to both say somthing like:
+If you're referring to both used separately say something like:
 
 - C and C++
 - C, C++
@@ -186,6 +186,9 @@ If you're referring to both say somthing like:
 - Etc.
 
 **NOT C/C++**
+
+Only if you're using C *together* with C++ would it be acceptable to
+say C/C++.
 
 [^1]: Java/Kotlin would honestly be more accurate, but you don't hear people
 refer to Java and Kotlin by that title. So why should you call C and C++ "C/C++"?
