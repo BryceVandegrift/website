@@ -101,7 +101,7 @@ gcd.c:6:1: error: expected unqualified-id before '{' token
 ```
 
 This makes it almost impossible to use K&R syntax with C++ unless you format
-your function arguments according to [ASCI C](https://gist.github.com/nicholatian/2d9514feaf9a95e7561a433ac404b141).
+your function arguments according to [ANSI C](https://gist.github.com/nicholatian/2d9514feaf9a95e7561a433ac404b141).
 (I know not many people care about K&R syntax, but I think that it is still an
 important difference).
 
