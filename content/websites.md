@@ -18,4 +18,8 @@ Websites I find neat or interesting.
 - [Fediverse](https://fediverse.party/): Collection of federated social media
 - [OpenBSD](https://openbsd.org/): A very secure and useful BSD distribution
 - [DragonFlyBSD](https://www.dragonflybsd.org/): A BSD distribution focused on performance
+- [troff papers](https://troff.org/papers.html): Papers, manuals, and references for troff/groff
+- [QBE](https://c9x.me/compile/): LLVM in 10% of the code
+- [cproc](https://git.sr.ht/~mcf/cproc): A very small C compiler based on QBE
+- [XMPP](https://xmpp.org/): A better chat protocol than Matrix
 - [Zig](https://ziglang.org/): A programming language that aims to be just as simple and fast as C

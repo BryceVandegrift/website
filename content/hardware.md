@@ -106,9 +106,9 @@ Although color accuracy is somewhat important to me, I really don't care if a mo
 ### Phone
 
 I've never been a big fan of cell phones.
-Despite that, I still use a cell phone.
-However, before you call me a hypocrite, I plan to not have a cell phone in future.
-I honestly think that a cell phone is just a dumbed down computer that can fit into your pocket.
-If that's the case, then why can't we have all the features of a computer but for a cell phone?
-If you want a cell phone that respects your privacy and is almost like a computer in your pocket, I recommend getting the [Librem 5](https://puri.sm/products/librem-5/) or De-Google an Android phone.
+Despite that, I still use a cell phone because in this day and age people
+just *require* you to have a cell phone.
+I *do not* and *will not* download random apps on my phone.
+I only have a handful of stock applications on my phone, and that is
+all I will *ever* need.
 I personally have a Google Pixel 3a that I flashed [Graphene OS](https://grapheneos.org/) onto.

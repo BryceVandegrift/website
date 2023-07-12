@@ -20,7 +20,7 @@ There are more speeches available [here](https://www.gnu.org/philosophy/speeches
 ## The current state of software companies
 
 As of the time I am writing (or typing) this (2021), most software companies don't care about good programmers anymore.
-Nowadays, most software companies care about "equal representation", but they don't really care weather someone is actually good at programming.
+Nowadays, most software companies care about "equal representation", but they don't really care if someone is actually good at programming.
 Now don't get me wrong, some software companies don't do this, but MOST of the biggest companies on the planet do this (i.e. Microsoft, Google, Facebook).
 This is one of the reasons why a lot of software that these companies make are either bloated, slow, complicated, or all three.
 

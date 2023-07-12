@@ -6,7 +6,7 @@ draft: false
 
 ## SourceHut
 
-I have a sourcehut account that I use to upload all of the projects and repositories to due to GitHub being owned and operated by Microsoft.
+I have a sourcehut account that I use to upload all of my projects and repositories due to GitHub being owned and operated by Microsoft.
 You can find my sourcehut here:
 
 [My sourcehut page](https://sr.ht/~bpv/)
@@ -15,7 +15,7 @@ You can find my sourcehut here:
 
 I mirror my projects to my GitHub account, but it don't regularly check it.
 The only reason I have it around is to contribute to other projects.
-If you want to visit me GitHub account you can find it here:
+If you want to visit my GitHub account you can find it here:
 
 [My GitHub page](https://github.com/BryceVandegrift)
 
@@ -43,7 +43,7 @@ not limited to):
 After seeing a lot of plugin managers for Vim and NeoVim that are unnecessary
 complicated and bloated I decided to create `pm`. `pm` (short for plugin
 manager) is just a simple (or stupidly simple) plugin manager that is written
-in less that **100 lines of code** that relies on the new automatic plugin
+in less than **100 lines of code** that relies on the new automatic plugin
 loading system for Vim and NeoVim to make the process of adding, updating, and
 removing plugins extremely simple. If you would like to use it you can
 download it [here](https://sr.ht/~bpv/pm/).

@@ -34,7 +34,7 @@ The internet is way too bloated and slow.
 How many times have you visited a website and it takes forever to load?
 A lot a websites recently have decided that having a website that loads quickly and takes up not much space isn't important.
 A lot of websites that seem like they should be simple like recipe or educational sites are littered with countless ads and useless JavaScript.
-I've actually seen websites where, it's just plain text on a background, but for some reason, it uses like 5 paragraphs of JavaScript, **JUST USE HTML!**
+I've actually seen websites where, it's just plain text on a background, but for some reason, it uses like 500 lines of JavaScript, **JUST USE HTML!**
 Making your website bloated takes up more internet bandwidth and wastes the users time.
 When you design your website, you should account for all types of people in all types of locations.
 Just because your website loads in 0.1 seconds with your city fiber connection, doesn't mean that it will do the same for someone living in the country with a dial-up connection.
@@ -46,6 +46,7 @@ If you want to make a website that's actually responsive, fast, and useful, here
 - Only use JavaScript if it's 100% necessary, it's a pretty slow language
 - Compress your images, nobody wants to wait 3 hours for a 100 MB picture to load
 - Use HTTP(S)/2 if possible, it provides faster loading times than normal HTTP(S)
+- Better yet, just use HTTP
 - Just don't add any useless to unused elements or features
  
 ## The Internet is Censored
@@ -54,13 +55,12 @@ Things on the internet are censored all the time.
 This is not the fault of the internet, but the massive companies that basically run the internet.
 Facebook, Twitter, Reddit, Instagram, and etc. delete countless posts everyday, sometimes it's because they posted things like gore or porn, but most of the time, it's because they don't agree with what you said.
 That goes for a lot of websites today, if you say something that isn't "politically correct" or something that someone thinks is offensive you can get "canceled".
-I think that this is extremely stupid because it does not people actually voice their opinions which is the whole point of social media.
-You have to right to be rude.
+You have to right to be rude (although sometimes you shouldn't be).
 [Here is a link](http://esr.ibiblio.org/?p=8609) to a post made by Eric S. Raymond, one of the founders of the Open Source Initiative, regarding his thoughts on this subject.
 
 Believe it or not, big search engines like Google and Bing actually censor search results.
 Search engines like these straight up remove search results that they do agree with or don't like.
-If you want a search engine that you can actually somewhat trust, use something like [DuckDuckGo](https://duckduckgo.com/), [Swisscows](https://swisscows.com/), or [SearX](https://searx.space/).
+If you want a search engine that you can actually somewhat trust, use something like [wiby](https://wiby.me), [Swisscows](https://swisscows.com/), or [SearX](https://searx.space/).
 Don't let anyone control what you can and can't see. 
 
 ## Can the Internet be Fixed?

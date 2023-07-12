@@ -32,7 +32,7 @@ Java still has it's uses with legacy code, but I think that it's a dying languag
 I personally dislike JavaScript.
 It has weird syntax, it's not useful for anything outside the web/internet, and it's somewhat slow.
 Not only that, but some websites using JavaScript can do some pretty spooky things on your computer like find detailed info on your device (What hardware you're using), track you across websites, and it can even grab your IP address through Tor!
-Not only that, but the initial release of Javascript only took 12 days to make.
+Not only that, but the initial release of Javascript only took 12 days to make (which explains a lot).
 
 ### R
 
@@ -165,7 +165,7 @@ If you have some decent knowledge on Linux, and you want to customize/make your 
 Void Linux is perhaps my favorite Linux distribution to date.
 It's very much like Arch Linux but has a lot less bloat and is a lot more "BSD like" than other Linux distributions.
 It uses a simple init system (runit) rather than the bloated mess that is Systemd.
-The package manager (XBPS) is also a lot simplier and is more consistant that the Pacman package manager that Arch Linux uses.
+The package manager (XBPS) is also a lot simpler and is more consistent that the Pacman package manager that Arch Linux uses.
 It also has support for Musl and Glib unlike most other Linux distributions which only choose Glib.
 
 ### Gentoo

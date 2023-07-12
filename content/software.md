@@ -11,8 +11,8 @@ draft: false
 For my operating system I use [Void Linux](https://voidlinux.org/).
 When it comes to operating systems, you really can't go wrong with Linux.
 I use Void Linux because it is highly customizable and uses very little system resources.
-For Linux beginners, I recommend Linux Mint since it is very user friendly.
-I truly think that Unix based/like systems are superior to any other operating system.
+The init system of Void Linux, runit, is also very simple to understand, easy
+to use, and is extremely fast.
 
 ## Programs
 
@@ -22,7 +22,7 @@ My web browser of choice is [Firefox](https://www.mozilla.org/en-US/firefox/new/
 I make sure to configure Firefox to disable all telemetry, minimize the browser
 footprint, reduce tracking, and more. This is usually changed in the
 `about:config` page for Firefox. Although I used to use [Qutebrowser](https://qutebrowser.org/)
-as my main web browser, it's downsides proved to great for me to use (you can
+as my main web browser, it's downsides proved too great for me to use (you can
 read more [here](https://brycevandegrift.xyz/blog/why-i-am-switching-to-firefox/)).
 I also have a few extensions that I make sure to use for Firefox to make it
 even better but also to block trackers and advertisements. These include:
@@ -31,7 +31,7 @@ even better but also to block trackers and advertisements. These include:
 - [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/) (for CDN tracking)
 - [ClearURLs](https://addons.mozilla.org/en-US/android/addon/clearurls/) (for URL tracking)
 - [Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/) (for redirecting to privacy respecting websites)
-- [Tridactyl](https://addons.mozilla.org/en-US/firefox/addon/tridactyl-vim/) (for Vim keybindings)
+- [Vim Vixen](https://addons.mozilla.org/en-US/firefox/addon/vim-vixen/) (for Vim keybindings)
 
 ### Desktop Environment/Window Manager
 
@@ -62,7 +62,9 @@ I think that Neovim is the superior editor to Vim.
 ### File Manager
 
 Normally for browsing files I just use the terminal.
-However, if I need to do something where a graphical file manager is very useful (like moving multiple files) then I use pcmanfm, which is very lightweight and has lots of useful features.
+I am considering (as playing around with) file managers like [lf](https://github.com/gokcehan/lf),
+[nnn](https://github.com/jarun/nnn), [ranger](https://ranger.github.io/), and more,
+however I still have not found one that I like.
 
 ### Documents, Spreadsheets, Etc.
 
@@ -73,7 +75,7 @@ I use [Pandoc](https://pandoc.org/) to convert my quick notes to documents or to
 For somewhat longer and more precise (but still somewhat short) documents I use
 [groff](https://www.gnu.org/software/groff/)/troff for creating documents in the terminal.
 
-For professional work and long papers I use [LaTeX/XeLaTeX](https://www.latex-project.org/) for creating
+For professional work and long papers/essays I use [LaTeX/XeLaTeX](https://www.latex-project.org/) for creating
 documents as it makes the process for creating title pages, formatting,
 citations, bibliographies, and etc. easier than using groff/troff. It definitely
 beats using [Microshaft](http://catb.org/jargon/html/M/Microsloth-Windows.html) Word.
@@ -120,7 +122,7 @@ like embedded terminal system, and more.
 
 ### Image Editing
 
-For making small or sudble changes to images I use [ImageMagick](https://imagemagick.org/index.php).
+For making small or simple changes to images I use [ImageMagick](https://imagemagick.org/index.php).
 For creating images or making larger edits I use [GIMP](https://www.gimp.org/).
 
 ### Torrents
