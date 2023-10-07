@@ -33,7 +33,7 @@ able to read/receive from UDP. Luckily such a program exists:
 mpv --profile=low-latency udp://localhost:1313
 ```
 
-Now to actually send these over the internet and not just over LAN or localhost you
+Now to actually send this over the internet and not just over LAN or localhost you
 would need to replace `localhost:1313` with the IP address of the recipient
 for FFmpeg and the IP address of the sender for mpv. This is will let
 you be able to do peer-to-peer video calls using only FFmpeg and mpv (or any
@@ -59,5 +59,5 @@ FFmpeg and this shows just how absolutely amazing it is.
 {{< video src="/p/cameracast.webm" >}}
 
 [^1]: In fact, the creator of FFmpeg, Fabrice Bellard, also made QEMU and the
-Tiny C Compiler (TCC) all of which are very widely used pieces of software
+Tiny C Compiler (TCC) both of which are very widely used pieces of software
 that are very well made.
