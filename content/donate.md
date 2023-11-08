@@ -20,7 +20,9 @@ I prefer crypto but anything at all is nice. Thanks :)
 
 OpenAlias: `brycevandegrift.xyz`
 
-## [Donate with PayPal](https://paypal.me/brycevandegrift)
+## [Donate via Librapay](https://liberapay.com/BryceVandegrift/)
+
+## [Donate via PayPal](https://paypal.me/brycevandegrift)
 
 ## Affiliate Links
 
