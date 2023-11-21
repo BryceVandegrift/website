@@ -30,7 +30,7 @@ even better but also to block trackers and advertisements. These include:
 - [uBlockOrigin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) (blocks ads and trackers)
 - [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/) (for CDN tracking)
 - [ClearURLs](https://addons.mozilla.org/en-US/android/addon/clearurls/) (for URL tracking)
-- [Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/) (for redirecting to privacy respecting websites)
+- [LibRedirect](https://libredirect.github.io/) (for redirecting to privacy respecting websites)
 - [Vim Vixen](https://addons.mozilla.org/en-US/firefox/addon/vim-vixen/) (for Vim keybindings)
 
 ### Desktop Environment/Window Manager
@@ -62,7 +62,7 @@ I think that Neovim is the superior editor to Vim.
 ### File Manager
 
 Normally for browsing files I just use the terminal.
-I am considering (as playing around with) file managers like [lf](https://github.com/gokcehan/lf),
+I am considering (and playing around with) file managers like [lf](https://github.com/gokcehan/lf),
 [nnn](https://github.com/jarun/nnn), [ranger](https://ranger.github.io/), and more,
 however I still have not found one that I like.
 

@@ -1,5 +1,5 @@
 ---
-title: "Software Projects"
+title: "Projects"
 date: 2022-09-03T17:59:56-05:00
 draft: false
 ---

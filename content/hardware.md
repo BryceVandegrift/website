@@ -31,7 +31,8 @@ It also has useful ports like USB-C, optical audio, and even Display Port for th
 
 I use OLOy DDR4 2x8GB RAM sticks.
 I clock my ram at around 2.933 GHz because it's the fastest supported speed for my CPU/APU.
-For me personally, any amount of RAM over 16GB is overkill.
+For me personally, any amount of RAM over 16GB is overkill, at least for what
+I normally do day to day.
 
 ### PSU
 
@@ -51,8 +52,8 @@ It's a little slow, but I'm very patient.
 
 ### Case
 
-My computer case is just an old 2005 Gateway computer case I found in my basement.
-It works fine and it holds everything in place.
+My case is a "be quiet!" ATX case. I got it because it was on a very nice sale.
+I am unsure what model my case is, but the title *is* true, it's very quiet.
 
 ## Laptops
 
@@ -63,7 +64,7 @@ This laptop actually has a few cool features that I use like USB-C and a built-i
 There are some downsides though, there's no Ethernet port, not many BIOS/UEFI settings, and some hardware/software qwerks.
 Compatibility with Linux for this laptop has been a mixed bag.
 On one hand, it runs Debian Based distributions perfectly fine, but on the other hand, running OpenSuse, Manjaro, or even Fedora results in lots of weird results.
-Believe it or not, Arch Linux works perfectly fine on this laptop.
+Believe it or not, Arch, Void, and Alpine all work perfectly fine on this laptop.
 Battery life on this laptop is actually amazing!
 I have used this laptop for hours at a time and haven't come close to draining the battery.
 Overall, I would give this laptop an 7.5/10, good, but could use some improvements.
@@ -73,7 +74,7 @@ My other laptop is a Lenovo Thinkpad X220.
 I prefer to use this laptop over the Ideapad.
 First things first, Thinkpads are built like tanks.
 I could drop this laptop from a rooftop and it will probably still work afterwords.
-Although this laptop isn't that fast, as you can tell, I don't really need a fast computer for my work.
+Although this laptop isn't that fast, since it's almost 10 years old, I don't really need a fast computer for my work.
 All of my computing can easily be done on a 10 year old computer.
 I also replaced the stock BIOS on this laptop with [Coreboot](https://coreboot.org/).
 
@@ -84,8 +85,9 @@ I also replaced the stock BIOS on this laptop with [Coreboot](https://coreboot.o
 I use a [Unicomp](https://www.pckeyboard.com/) Classic.
 When it comes to keyboards, you can't beat the IBM Model M, and the Unicomp Classic is as close to a Model M as you can get.
 This keyboard is the best keyboard I have ever used, period.
-Although this keyboard isn't a Model M it is a close a you can get to an IBM Model M.
-Believe it or not, Unicomp actually bought the tooling and molds that were used to make the Model M.
+Although this keyboard isn't a Model M it is as close as you can get to an IBM Model M.
+Believe it or not, Unicomp actually bought the tooling and molds that were used
+to make the Model M directly from IBM.
 Pretty rad.
 
 ### Mouse
@@ -93,7 +95,7 @@ Pretty rad.
 My mouse is Logitech three button mouse. Why?
 Because it's the best mouse that I currently have and I barely use my mouse as
 it is, so I don't really mind.
-I don't prefer wireless mice because I think that replacing the batteries on them are annoying.
+I don't prefer wireless mice because I think that replacing the batteries on them is annoying.
 
 ### Monitor
 
