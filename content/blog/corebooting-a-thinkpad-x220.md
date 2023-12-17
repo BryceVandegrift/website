@@ -38,9 +38,9 @@ No Connection 7 --|      |-- 2  MISO
 ### Raspberry Pi pinout
 
 ```
-                        CS
-  1                     |           20
-+-----------------------v-------------+
+                        CS   GND
+  1                     |     |     20
++-----------------------v-----v-------+
 | x x x x x x x x x x x x x x x x x x |
 | x x x x x x x x x x x x x x x x x x |
 +-----------------^-^-^-^-------------+
