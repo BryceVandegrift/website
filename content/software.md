@@ -6,13 +6,14 @@ draft: false
 
 ## OS
 
-{{< img src="/p/void.webp" link="https://voidlinux.org" >}}
+{{< img src="/p/alpine.webp" link="https://www.alpinelinux.org/" >}}
 
-For my operating system I use [Void Linux](https://voidlinux.org/).
+For my operating system I use [Alpine Linux](https://www.alpinelinux.org/).
 When it comes to operating systems, you really can't go wrong with Linux.
-I use Void Linux because it is highly customizable and uses very little system resources.
-The init system of Void Linux, runit, is also very simple to understand, easy
-to use, and is extremely fast.
+I use Alpine Linux because it is highly customizable and uses very little system resources.
+The init system of Alpine Linux, openrc, is also very simple to understand, easy
+to use, and is extremely fast. The package manager of Alpine, apk, is probably
+the easiest to use and fastest package manager that I have ever seen.
 
 ## Programs
 
@@ -51,6 +52,8 @@ I goes along pretty well with dwm.
 
 For my shell, I use [zsh](https://zsh.org/).
 It's compatible with bash and has a few features that I find very useful like syntax highlighting and auto completion.
+I have been considering using a shell that isn't as bloated as zsh, but I
+can't seem to find anything to my liking.
 
 ### Text/Code Editor
 
@@ -91,9 +94,9 @@ Vim of spreadsheet programs.
 For video I use [mpv](https://mpv.io/), almost everyone is using it nowadays and it's very versatile.
 There isn't much more I can say about mpv other than it's my favorite video player.
 
-For audio I use [mpd](https://www.musicpd.org/) and [mpc](https://www.musicpd.org/clients/mpc/).
-mpd is the daemon that runs underneath mpc that sorts the music, plays the music, and etc.
-mpc is a very simple but useful client for mpd that make scripting extremely easy.
+For playing music I also use mpv. In fact I have a *very*
+[simple script](https://git.sr.ht/~bpv/dotfiles/tree/master/item/.local/bin/music)
+for playing the music with thumbnails from my music folder.
 
 For editing video and audio I use [FFmpeg](https://ffmpeg.org/) as my main video editor.
 FFmpeg is perhaps the gold standard for all video/audio editors, not just terminal
@@ -112,6 +115,8 @@ support.
 
 And finally, for presentations, I use [sent](https://tools.suckless.org/sent/) for its simplicity
 as it can effortlessly turn plain text files into simple presentations.
+For more professional and complex presentations I use the LaTeX
+beamer class.
 
 ### Mail
 
