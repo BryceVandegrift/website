@@ -43,7 +43,7 @@ not limited to):
 After seeing a lot of plugin managers for Vim and NeoVim that are unnecessary
 complicated and bloated I decided to create `pm`. `pm` (short for plugin
 manager) is just a simple (or stupidly simple) plugin manager that is written
-in less than **100 lines of code** that relies on the new automatic plugin
+in less than **150 lines of code** that relies on the new automatic plugin
 loading system for Vim and NeoVim to make the process of adding, updating, and
 removing plugins extremely simple. If you would like to use it you can
 download it [here](https://sr.ht/~bpv/pm/).
