@@ -36,9 +36,10 @@ I normally do day to day.
 
 ### PSU
 
-I literally just used an old PSU I had sitting around my house, I think I've had it for around 10 years.
-It can handle up 300 watts, which is more than enough for my setup.
-I might replace my PSU soon because I really don't want my computer failing or catching on fire anytime soon.
+My PSU is EVGA 600W Bronze power supply, which is somewhat overkill
+considering that my CPU and GPU combined only draw around 65 watts max.
+I really don't care what PSU I use as long as it's safe (doesn't catch on
+fire) and delivers the right amount of power.
 
 ### Drives
 
@@ -57,26 +58,19 @@ I am unsure what model my case is, but the title *is* true, it's very quiet.
 
 ## Laptops
 
-### Lenovo Ideapad
-My laptop is a Lenovo Ideapad 5 15IIL05 (rolls right off the tongue).
-It's surprisingly lightweight and durable, at least in my opinion.
-This laptop actually has a few cool features that I use like USB-C and a built-in camera privacy shutter.
-There are some downsides though, there's no Ethernet port, not many BIOS/UEFI settings, and some hardware/software qwerks.
-Compatibility with Linux for this laptop has been a mixed bag.
-On one hand, it runs Debian Based distributions perfectly fine, but on the other hand, running OpenSuse, Manjaro, or even Fedora results in lots of weird results.
-Believe it or not, Arch, Void, and Alpine all work perfectly fine on this laptop.
-Battery life on this laptop is actually amazing!
-I have used this laptop for hours at a time and haven't come close to draining the battery.
-Overall, I would give this laptop an 7.5/10, good, but could use some improvements.
-
 ### Lenovo Thinkpad
-My other laptop is a Lenovo Thinkpad X220.
-I prefer to use this laptop over the Ideapad.
+My main laptop is a Lenovo Thinkpad X220.
 First things first, Thinkpads are built like tanks.
 I could drop this laptop from a rooftop and it will probably still work afterwords.
 Although this laptop isn't that fast, since it's almost 10 years old, I don't really need a fast computer for my work.
 All of my computing can easily be done on a 10 year old computer.
 I also replaced the stock BIOS on this laptop with [Coreboot](https://coreboot.org/).
+
+### Other Laptops
+
+I have various other junk laptops laying around that family or friends have
+given me. I use these every once in a while for various small tasks, but I
+don't take them with me if I go anywhere.
 
 ## Keyboards, Mice, Etc.
 

@@ -16,6 +16,7 @@ Websites I find neat or interesting. These links are in no specific order.
 - [GNU](https://www.gnu.org/): Free software
 - [FSF Directory](https://directory.fsf.org/): Free software directory
 - [Wiby.me](https://wiby.me/): A search engine for small websites
+- [Marginalia](https://search.marginalia.nu/): A search engine for non-commercial websites
 - [Fediverse](https://fediverse.party/): Collection of federated social media
 - [OpenBSD](https://openbsd.org/): A very secure and useful BSD distribution
 - [DragonFlyBSD](https://www.dragonflybsd.org/): A BSD distribution focused on performance
