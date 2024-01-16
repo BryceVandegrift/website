@@ -35,6 +35,20 @@ body {
         margin-right: auto;
 }
 
+main {
+	display: flex;
+	flex-direction: row;
+}
+
+section {
+	flex-grow: 1;
+}
+
+aside {
+	width: 40%;
+	float: right;
+}
+
 li {
         text-align: left;
 }
@@ -125,4 +139,10 @@ nav ul li {
 #smallimg {
 	width: 35%;
 	height: 35%;
+}
+
+@media(max-width: 480px) {
+	aside {
+		display: none;
+	}
 }

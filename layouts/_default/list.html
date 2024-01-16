@@ -1,9 +1,0 @@
-{{ partial "header.html" . -}}
-<h1 id="tag_{{ .Title }}">{{ .Title | title }}</h1>
-{{ .Content -}}
-<ul>
-{{- range.Pages }}
-	<li>{{ .Date.Format "2006 Jan 02" }} &ndash; <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-{{ end -}}
-</ul>
-{{- partial "footer.html" . }}

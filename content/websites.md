@@ -11,6 +11,7 @@ Websites I find neat or interesting. These links are in no specific order.
 - [Suckless](https://suckless.org/): Cool software
 - [IPFS](https://ipfs.io/): A decentralized file system/storage system
 - [Matrix](https://matrix.org/): A great chat system with lots of features
+- [RFC1855](https://datatracker.ietf.org/doc/html/rfc1855): Internet etiquette guidelines
 - [Jami](https://jami.net/): A better, free version of Zoom
 - [GNU](https://www.gnu.org/): Free software
 - [FSF Directory](https://directory.fsf.org/): Free software directory

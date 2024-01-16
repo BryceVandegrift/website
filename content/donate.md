@@ -14,10 +14,6 @@ I prefer crypto but anything at all is nice. Thanks :)
 
 💸 Bitcoin: `bc1qh6hmj0c44l5fve25kj00mll6mpeev2jyf92q07` ([QR](/p/btc-qr.png))
 
-📕 LBC: `bWu1gHBUPA5nVtUurCxvBn82Vgd6Nn5cNi` ([QR](/p/lbc-qr.png))
-
-🦁 BAT: You can donate through the Brave Browser
-
 OpenAlias: `brycevandegrift.xyz`
 
 ## [Donate via Librapay](https://liberapay.com/BryceVandegrift/)

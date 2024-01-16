@@ -2,9 +2,6 @@ baseURL = "https://brycevandegrift.xyz"
 languageCode = "en-us"
 title = "Bryce Vandegrift's Website"
 
-[params]
-	favicon = "/icon.ico"
-
 [outputs]
 	home = ["HTML", "RSS"]
 	section = ["HTML"]
