@@ -39,12 +39,12 @@ No Connection 7 --|      |-- 2  MISO
 
 ```
                         CS   GND
-  1                     |     |     20
-+-----------------------v-----v-------+
-| x x x x x x x x x x x x x x x x x x |
-| x x x x x x x x x x x x x x x x x x |
-+-----------------^-^-^-^-------------+
- 21               | | | |           40
+  2                     |     |         40
++-----------------------v-----v-----------+
+| x x x x x x x x x x x x x x x x x x x x |
+| x x x x x x x x x x x x x x x x x x x x |
++-----------------^-^-^-^-----------------+
+  1               | | | |               39
                 VCC | | CLK
                MOSI/   \MISO
 ```
