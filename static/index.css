@@ -120,8 +120,8 @@ nav {
 nav ul li {
 	list-style: none;
 	display: block;
-	padding: 7px;
-	margin: 7px;
+	padding: 5px;
+	margin: 5px;
 	font-size: 20px;
 	float: left;
 	border: solid 2px #444444;

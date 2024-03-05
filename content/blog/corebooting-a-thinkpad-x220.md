@@ -302,4 +302,4 @@ You can now enjoy your computing in peace.
 
 ### Contact
 
-If you have any questions or comments you can find my contact info on my home page [here](https://brycevandegrift.xyz/).
+If you have any questions or comments you can find my contact info [here](https://brycevandegrift.xyz/contact/).
