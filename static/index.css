@@ -141,6 +141,10 @@ nav ul li {
 	height: 35%;
 }
 
+#tree {
+	text-align: center;
+}
+
 @media(max-width: 480px) {
 	aside {
 		display: none;
