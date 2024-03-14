@@ -150,3 +150,27 @@ nav ul li {
 		display: none;
 	}
 }
+
+/* light theme for masochists */
+@media(prefers-color-scheme: light) {
+	html {
+		background-color: #ffffff;
+		color: #000000;
+	}
+	h1 {
+		color: #000000;
+	}
+	a {
+		color: #4084d6;
+	}
+	a:hover {
+		color: #4084d6;
+	}
+	blockquote {
+		color: #ffffff;
+	}
+	nav ul li {
+		border: solid 2px #aaaaaa;
+		background-color: #dddddd;
+	}
+}
