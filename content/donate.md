@@ -32,3 +32,8 @@ of these links.
 - [Vultr $100](https://www.vultr.com/?ref=9386357-8H): Get $100 in free credit for a VPS.
 - [Discover Student Cash Back](https://refer.discover.com/vandegriftbryce!aab7b4ca52!a):
 A decent credit card that I actually use. If you sign up we both get $100.
+
+## Other Ways To Help
+
+Display my 88x31 webpin on your website:
+{{< img src="/p/brycevandegrift.xyz.gif" alt="My 88x31 webpin" link="https://brycevandegrift.xyz" >}}
