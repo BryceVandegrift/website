@@ -56,7 +56,7 @@ I personally
 find it crazy that you can basically do audio and video calls using **only**
 FFmpeg and this shows just how absolutely amazing it is.
 
-{{< video src="/p/cameracast.webm" >}}
+{{< video src="/cameracast.webm" >}}
 
 [^1]: In fact, the creator of FFmpeg, Fabrice Bellard, also made QEMU and the
 Tiny C Compiler (TCC) both of which are very widely used pieces of software
