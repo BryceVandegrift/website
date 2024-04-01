@@ -1,5 +1,8 @@
 {{ partial "header.html" . -}}
 <h1>{{ .Title }}</h1>
+{{ if compare.Eq .CurrentSection.Path "blog" }}
+<p>Posted {{ .Date.Format "January 2, 2006" }}</p>
+{{ end }}
 <hr>
 {{ .Content -}}
 {{ partial "footer.html" . }}

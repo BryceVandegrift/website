@@ -105,7 +105,7 @@ it's amazingly fast.
 
 ### Pictures and Documents
 
-For image viewing I use [sxiv](https://github.com/muennich/sxiv) because it's very simple
+For image viewing I use [nsxiv](https://codeberg.org/nsxiv/nsxiv) because it's very simple
 and follows closely with the Suckless philosophy.
 
 For document viewing I use [zathura](https://pwmt.org/projects/zathura/) with different add-ons for PDF and document viewing.

@@ -62,3 +62,35 @@ Servings: 20 cookies
    volume] and melt chocolate mixture in microwave.
 7. Let mixture cool until it thickens.
 8. Spread cream onto two wafers and sandwich together.
+
+## Chocolate Chip Cookies
+
+Servings: 16 cookies
+
+**Ingredients:**
+- 8 oz of brown butter
+- 8 oz light brown sugar
+- 1¾ oz dark brown sugar
+- 4½ oz granulated sugar
+- 2 eggs
+- 11½ oz flour
+- 1 tbsp kosher salt
+- 1 tsp vanilla extract
+- ½ tsp baking soda
+- ½ tsp baking powder
+- 10 grams of bakers chocolate
+- pinch of cinnamon
+- pinch of nutmeg
+- ¼ tsp of cocoa powder (optional)
+
+**Directions:**
+1. Mix brown butter, granulated sugar, light brown sugar, and dark brown sugar
+   until soft and airy.
+2. While mixing, add eggs one at a time and then add vanilla.
+3. Combine flour, salt, baking soda, baking powder, cinnamon, nutmeg, and cocoa
+   powder in separate bowl.
+4. Mix dry ingredients with wet ingredients and mix until just combined.
+5. Add chopped bakers chocolate and mix.
+6. Scoop cookie dough using ice cream scooper and let it sit in refrigerator
+for up to 3 days.
+7. Take cookies out of fridge and bake at 375°F for 18-20 minutes.

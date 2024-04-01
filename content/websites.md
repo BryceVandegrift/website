@@ -25,6 +25,7 @@ Websites I find neat or interesting. These links are in no specific order.
 - [DragonFlyBSD](https://www.dragonflybsd.org/): A BSD distribution focused on performance
 - [troff papers](https://troff.org/papers.html): Papers, manuals, and references for troff/groff
 - [Teach Yourself CS](https://teachyourselfcs.com/): Read the title
+- [The American Dream](https://wiki.bibanon.org/American_Dream): An interesting story I read long ago
 - [Long Form Math](https://longformmath.com/): Some *really* good math books
 - [QBE](https://c9x.me/compile/): LLVM in 10% of the code
 - [cproc](https://git.sr.ht/~mcf/cproc): A very small C compiler based on QBE
