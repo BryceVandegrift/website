@@ -50,10 +50,12 @@ I goes along pretty well with dwm.
 
 ### Shell
 
-For my shell, I use [zsh](https://zsh.org/).
-It's compatible with bash and has a few features that I find very useful like syntax highlighting and auto completion.
-I have been considering using a shell that isn't as bloated as zsh, but I
-can't seem to find anything to my liking.
+For my shell, I use [oksh](https://github.com/ibara/oksh) which is OpenBSD's
+version of the Public Domain Korn Shell (pdksh).
+For the longest time I have used zsh as my main shell, however I have decided
+to switch to [o]ksh since it is simpler and faster than zsh. I found that zsh
+is a bit too bloated for me and has caused a few problems in the past that
+[o]ksh solves.
 
 ### Text/Code Editor
 

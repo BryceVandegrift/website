@@ -18,8 +18,6 @@ OpenAlias: `brycevandegrift.xyz`
 
 ## [Donate via Librapay](https://liberapay.com/BryceVandegrift/)
 
-## [Donate via PayPal](https://paypal.me/brycevandegrift)
-
 ## Affiliate Links
 
 One way you can support me is by using my affiliate links. These are services
