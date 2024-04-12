@@ -68,7 +68,7 @@ list goes on and on. Not only does this result in other products being
 noticed less, but it also draws a negative light on other products and make
 them seem inferior compared to larger brands.
 
-{{< img mouse="Must consooooome!" src="/p/consoom.webp" >}}
+{{< img mouse="Must consooooome!" src="/p/consoom.webp" alt="consoomer" >}}
 
 ## DRM
 
@@ -93,7 +93,7 @@ here are a few [links to](https://creativecommons.org/2017/07/09/terrible-horrib
 [understand](https://www.defectivebydesign.org/so_youve_got_some_questions_do_you#examples)
 [why](https://www.audioholics.com/news/drm-bad-killing-online-music).
 
-{{< img src="/p/printer.webp" caption="Classic printer DRM at work." >}}
+{{< img src="/p/printer.webp" caption="Classic printer DRM at work." alt="Printer DRM" >}}
 
 Although the modern conception of branding is very beneficial from an economic
 and financial standpoint, it can have many negative side effects outside the

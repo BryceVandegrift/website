@@ -58,7 +58,7 @@ presses the ink onto the paper via a series of tiny pins that create the
 final image. It does this line by line until the entire picture is printed.
 If you want to see one in action look [here](https://youtu.be/A_vXA058EDY).
 
-{{< img src="/p/dotmatrix.webp" >}}
+{{< img src="/p/dotmatrix.webp" alt="How a dot matrix printer works" >}}
 
 Sadly, as you can tell from the video, this means that dot matrix printers
 are somewhat slow and sometimes loud compared to their contenders.
@@ -77,7 +77,7 @@ I planned to use this thing for a while, but I kept on putting it off
 for about 1-2 years. It wasn't until the last 2 weeks that I decided to
 get this thing working.
 
-{{< img src="/p/imagewriter.webp" mouse="The last good Apple product" >}}
+{{< img src="/p/imagewriter.webp" mouse="The last good Apple product" alt="Apple Imagewriter II" >}}
 
 ## Getting It To Work
 
@@ -134,7 +134,7 @@ echo "This is a test" > /dev/ttyS1
 
 And...**it worked!**
 
-{{< img src="/p/testprint.webp" caption="Success!" >}}
+{{< img src="/p/testprint.webp" caption="Success!" alt="It works" >}}
 
 ### Printing PDFs
 
@@ -165,7 +165,7 @@ cat tux > /dev/ttyS1
 
 The output from the printer was...*interesting*.
 
-{{< img src="/p/tuxtest.webp" >}}
+{{< img src="/p/tuxtest.webp" alt="Failed print" >}}
 
 > Side note, you can see the visible lines that go across the print. That is
 > actually the broken pin on the print head, I plan on replacing the print
@@ -208,7 +208,7 @@ to remedy this I did something no man has ever done...*lower* the baud rate.
 Once I set the baud rate on the printer and my computer's serial port to
 2400 baud and printed the image, I got this:
 
-{{< img src="/p/matrixtux.webp" >}}
+{{< img src="/p/matrixtux.webp" alt="Printed image of Tux" >}}
 
 **Success!**
 

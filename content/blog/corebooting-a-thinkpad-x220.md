@@ -4,7 +4,7 @@ date: 2022-05-31T20:50:37-05:00
 draft: false
 ---
 
-{{< img caption="My Thinkpad X220" src="/p/thinkpad.webp" >}}
+{{< img caption="My Thinkpad X220" src="/p/thinkpad.webp" alt="My Thinkpad X220" >}}
 
 ## You Need
 

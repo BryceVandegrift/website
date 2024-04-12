@@ -8,4 +8,4 @@ Recently, I have been pretty busy with college classes and haven’t had much ti
 In addition to classes I have also been busy with other personal aspects of life which I would not like to disclose currently.
 I will be active again once I finish the semester (hopefully).
 
-If anything comes up feel free to email me at: [bryce@brycevandegrift.xyz](mailto://bryce@brycevandegrift.xyz).
+If anything comes up, feel free to email me here: [https://brycevandegrift.xyz/contact/](https://brycevandegrift.xyz/contact/)

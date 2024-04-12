@@ -4,7 +4,7 @@ date: 2023-11-06T11:41:21-04:00
 draft: false
 ---
 
-{{< img src="/p/alpine.webp" >}}
+{{< img src="/p/alpine.webp" alt="Alpine Linux logo" >}}
 
 I've been a [Void Linux](https://voidlinux.org/) user for about 2 years and I want to say it has been
 a good run. Void Linux has been an absolutely great Linux distribution and
