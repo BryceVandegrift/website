@@ -6,7 +6,7 @@ draft: false
 
 ## OS
 
-{{< img src="/p/alpine.webp" link="https://www.alpinelinux.org/" >}}
+{{< img src="/p/alpine.webp" link="https://www.alpinelinux.org/" alt="Alpine Linux logo" >}}
 
 For my operating system I use [Alpine Linux](https://www.alpinelinux.org/).
 When it comes to operating systems, you really can't go wrong with Linux.

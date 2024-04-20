@@ -63,6 +63,10 @@ a:hover {
 	text-decoration: underline;
 }
 
+img {
+	max-width: 640px;
+}
+
 figure {
 	text-align: center;
 }
