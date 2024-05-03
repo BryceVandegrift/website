@@ -29,6 +29,5 @@ D0BA5AB4 95EDF7E5 EB823DC8 FDD31078`
 
 ## Other
 
-- My Matrix address is: `@bpv:frei.chat`
 - You can sometimes find me on `irc.libera.chat` as `bpv`
 - If you want to send me a letter or mail please email me first.
