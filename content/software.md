@@ -50,12 +50,14 @@ I goes along pretty well with dwm.
 
 ### Shell
 
-For my shell, I use [oksh](https://github.com/ibara/oksh) which is OpenBSD's
-version of the Public Domain Korn Shell (pdksh).
+For my shell, I use [yash](https://magicant.github.io/yash/) which is minimal
+shell that aims to be maximally POSIX compliant.
 For the longest time I have used zsh as my main shell, however I have decided
-to switch to [o]ksh since it is simpler and faster than zsh. I found that zsh
-is a bit too bloated for me and has caused a few problems in the past that
-[o]ksh solves.
+to switch to yash since it is simpler, faster, and more portable than zsh.
+Despite this, yash still remains user-friendly and has things like command
+suggestions and advanced command completion.
+I found that zsh is a bit too bloated for me and has caused a few problems
+in the past that yash solves.
 
 ### Text/Code Editor
 
