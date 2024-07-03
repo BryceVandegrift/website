@@ -46,7 +46,9 @@ Although it takes some knowledge and skill to learn and customize dwm, it is wel
 
 I use [st](https://st.suckless.org/) (suckless/simple terminal) for my terminal.
 st is very small and uses barely any system resources, it is also pretty customizable and extensible.
-I goes along pretty well with dwm.
+Although it lacks many features that other terminal emulators have, these
+features can be patched into the software by the user without much hassle.
+It goes along pretty well with dwm.
 
 ### Shell
 
@@ -63,8 +65,7 @@ in the past that yash solves.
 
 For text and code editing I use [Neovim](https://neovim.io/).
 Neovim is a community driven fork of the popular Vim editor with a cleaner code base and other features like first class Lua support, sensible defaults, and is fully compatible with Vim.
-I really like being able to use Lua to write scripts for Neovim rather than Vimscript, as I think that programming in Vimscript can be a pain sometimes.
-I think that Neovim is the superior editor to Vim.
+I really like being able to use Lua to write scripts for Neovim rather than Vimscript, as I think that programming in Vimscript can be an absolute nightmare sometimes.
 
 ### File Manager
 
@@ -113,7 +114,7 @@ For image viewing I use [nsxiv](https://codeberg.org/nsxiv/nsxiv) because it's v
 and follows closely with the Suckless philosophy.
 
 For document viewing I use [zathura](https://pwmt.org/projects/zathura/) with different add-ons for PDF and document viewing.
-These include `zathura-cb` for comic book support, `zathura-djvu` for DjVu
+These include `zathura-djvu` for DjVu
 support, `zathura-pdf-mupdf` for PDF support, and `zathura-ps` for Postscript
 support.
 
@@ -127,13 +128,11 @@ beamer class.
 I use [aerc](https://aerc-mail.org/) for email.
 aerc is a terminal email client written in Go that has a lot of features that
 I find particularly useful like Vim keybindings, HTML email rendering, a tmux
-like embedded terminal system, and more.
+like embedded terminal system, and more. It's very easy to setup and works
+well with large services like ProtonMail and Google (not that I would
+recommend using these email services).
 
 ### Image Editing
 
 For making small or simple changes to images I use [ImageMagick](https://imagemagick.org/index.php).
 For creating images or making larger edits I use [GIMP](https://www.gimp.org/).
-
-### Torrents
-
-For downloading and seeding torrents I use [transmission-cli](https://transmissionbt.com/).

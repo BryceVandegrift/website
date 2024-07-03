@@ -27,6 +27,7 @@ Websites I find neat or interesting. These links are in no specific order.
 - [Teach Yourself CS](https://teachyourselfcs.com/): Read the title
 - [The American Dream](https://wiki.bibanon.org/American_Dream): An interesting story I read long ago
 - [Long Form Math](https://longformmath.com/): Some *really* good math books
+- [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html): Cheat sheets for topics in physics
 - [QBE](https://c9x.me/compile/): LLVM in 10% of the code
 - [cproc](https://git.sr.ht/~mcf/cproc): A very small C compiler based on QBE
 - [tcc](https://www.bellard.org/tcc/): A tiny C compiler (and probably my favorite C compiler)
@@ -50,3 +51,4 @@ Websites I find neat or interesting. These links are in no specific order.
 {{< img src="/p/pins/bradyt.ca.gif" link="https://bradyt.ca" alt="Brady" class="webpin" >}}
 {{< img src="/p/pins/netinfection.xyz.gif" link="https://netinfection.xyz" alt="Stefan" class="webpin" >}}
 {{< img src="/p/pins/cherub.im.gif" link="https://cherub.im" alt="Lucas" class="webpin" >}}
+{{< img src="/p/pins/banporn.gif" link="https://denshi.org/antiporn.html" alt="Ban Porn" class="webpin" >}}
