@@ -161,12 +161,20 @@ footer {
 @media(max-width: 560px) {
 	main {
 		flex-direction: column;
+		text-align: center;
 	}
 	section {
 		order: 2;
 	}
 	aside {
+		width: 100%;
 		order: 1;
+	}
+	video {
+		width: 100%;
+	}
+	figure {
+		overflow-y: scroll;
 	}
 }
 
