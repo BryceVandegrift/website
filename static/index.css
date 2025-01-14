@@ -150,6 +150,11 @@ footer {
 	margin: 2px;
 }
 
+.hide {
+	width: 0; height: 0;
+	display: none !important;
+}
+
 #smalltext {
 	font-size: small;
 }
