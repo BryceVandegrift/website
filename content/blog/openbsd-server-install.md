@@ -1,7 +1,7 @@
 ---
 title: "OpenBSD Server: Initial Setup"
 date: 2025-02-13T18:10:00-05:00
-draft: true
+draft: false
 ---
 
 For those of you who don't follow my blog, in my
@@ -12,6 +12,8 @@ OpenBSD server or VPS.
 
 Before we get started, make sure that you have your DNS records for your domain
 name pointing to your server IP address.
+
+{{< img mouse="OpenBASED" src="/p/openbsd.webp" alt="OpenBSD logo" >}}
 
 ## Installing OpenBSD
 
