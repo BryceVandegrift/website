@@ -70,9 +70,10 @@ I really like being able to use Lua to write scripts for Neovim rather than Vims
 ### File Manager
 
 Normally for browsing files I just use the terminal.
-I am considering (and playing around with) file managers like [lf](https://github.com/gokcehan/lf),
-[nnn](https://github.com/jarun/nnn), [ranger](https://ranger.github.io/), and more,
-however I still have not found one that I like.
+I have been playing around with [lf](https://github.com/gokcehan/lf),
+and I have been slowly growing more fond of it. Being able to extend it to do
+things like bulk renaming, previews, and adding icons is quite satisfying and
+helps me add *exactly* what I need in a file manager.
 
 ### Documents, Spreadsheets, Etc.
 

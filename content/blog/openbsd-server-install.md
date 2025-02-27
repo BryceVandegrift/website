@@ -4,6 +4,11 @@ date: 2025-02-13T18:10:00-05:00
 draft: false
 ---
 
+*This is the first part in a series of posts. Find [part 2](/blog/openbsd-httpd)
+and part 3 when they are ready*
+
+---
+
 For those of you who don't follow my blog, in my
 [previous blog post](/blog/migrating-my-vps) I talked about migrating my VPS to
 use OpenBSD instead of Debian stable. I recently finished migrating my VPS and
@@ -87,6 +92,13 @@ kern.shminfo.shmmax=2147483647
 kern.shminfo.shmmni=4096
 ```
 
+Please note that these settings are for **my** system and will chage from system
+to system. As a rule of thumb:
+
+- `kern.shminfo.shmmax` should be set to **half** of your maximum RAM (in bytes)
+- `kern.shminfo.shmall` should be set to `kern.shminfo.shmmax` divided by 4096
+(4096 is the page size in OpenBSD).
+
 These are just a few settings that will get a bit more performance out of our
 OpenBSD system. It just increases the maximum number of processes able to run at
 once as well as the maximum amount of shared memory.
@@ -99,6 +111,10 @@ That's just the beginning of setting up an OpenBSD server, but keep a close eye
 on my blog as I will upload the next part of this guide somewhat soon which will
 be about setting up a static web server using `httpd`...assuming that I get
 around to writing it eventually.
+
+---
+
+You can now read part 2 of this series [here](/blog/openbsd-httpd).
 
 [^1]: This is an affiliate link
 [^2]: Make sure to reboot whenever `syspatch` applies patches in order to reload
