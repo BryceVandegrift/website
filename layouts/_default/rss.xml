@@ -1,11 +1,11 @@
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>{{ .Site.Title }}</title>
 		<link>{{ .Permalink }}</link>
 		<description>Updates to Bryce Vandegrift's blog</description>{{ with .Site.LanguageCode }}
 		<language>{{.}}</language>{{end}}
 		{{ with .OutputFormats.Get "RSS" }}
-		{{ printf "<link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
+		{{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
 		{{ end }}
 		{{ range (.Site.GetPage "blog").Pages }}
 		<item>

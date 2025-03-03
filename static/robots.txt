@@ -1,8 +1,0 @@
-User-agent: *
-Disallow: /
-
-User-agent: WibyBot
-Allow: /
-
-User-agent: search.marginalia.nu
-Allow: /

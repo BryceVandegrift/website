@@ -1,7 +1,7 @@
 ---
 title: "OpenBSD Server: httpd"
 date: 2025-02-27T15:06:37-05:00
-draft: true
+draft: false
 ---
 
 I finally got around to writing part 2 of this series. If you have not read part
