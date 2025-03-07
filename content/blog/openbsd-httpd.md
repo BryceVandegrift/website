@@ -182,3 +182,9 @@ That's the end of part 2.
 The final part of this 3 part series will be about setting up an email server
 using `smtpd` and setting up spam filtering (as well as other things). So stay
 tuned for part 3.
+
+---
+
+You can now read part 3 of this series [here](/blog/openbsd-smtpd).
+
+---

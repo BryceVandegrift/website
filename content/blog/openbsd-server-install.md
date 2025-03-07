@@ -5,7 +5,7 @@ draft: false
 ---
 
 *This is the first part in a series of posts. Find [part 2](/blog/openbsd-httpd)
-and part 3 when they are ready*
+and [part 3](/blog/openbsd-smtpd) when they are ready*
 
 ---
 
