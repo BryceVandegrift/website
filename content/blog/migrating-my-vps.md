@@ -1,6 +1,6 @@
 ---
 title: "Migrating My VPS"
-date: 2025-02-07T15:37:01-05:00
+date: 2025-02-07
 draft: false
 ---
 

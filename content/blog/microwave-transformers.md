@@ -1,6 +1,6 @@
 ---
 title: "Microwave Transformers"
-date: 2024-04-20T17:53:02-04:00
+date: 2024-04-20
 draft: false
 ---
 

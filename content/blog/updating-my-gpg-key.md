@@ -1,6 +1,6 @@
 ---
 title: "Updating My GPG Key"
-date: 2023-01-15T15:01:21-05:00
+date: 2023-01-15
 draft: false
 ---
 

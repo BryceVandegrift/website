@@ -1,7 +1,7 @@
 ---
 title: "OpenBSD Server: smtpd"
-date: 2025-03-05T13:37:26-05:00
-draft: true
+date: 2025-03-07
+draft: false
 ---
 
 At last, the final part to this series. You can catch up on parts 1 and 2

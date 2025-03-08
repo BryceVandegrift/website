@@ -1,6 +1,6 @@
 ---
 title: "OpenBSD Server: Initial Setup"
-date: 2025-02-13T18:10:00-05:00
+date: 2025-02-13
 draft: false
 ---
 

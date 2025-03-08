@@ -1,6 +1,6 @@
 ---
 title: "Using a Dot Matrix Printer in 2024"
-date: 2024-02-14T11:39:49-04:00
+date: 2024-02-14
 draft: false
 ---
 

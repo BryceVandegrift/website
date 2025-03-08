@@ -1,6 +1,6 @@
 ---
 title: "Equipment I Use"
-date: 2022-09-03T17:59:41-05:00
+date: 2022-09-03
 draft: false
 ---
 

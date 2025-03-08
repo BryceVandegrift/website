@@ -1,6 +1,6 @@
 ---
 title: "Donate"
-date: 2022-09-05T15:55:52-05:00
+date: 2022-09-05
 draft: false
 ---
 

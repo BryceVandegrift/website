@@ -1,6 +1,6 @@
 ---
 title: "Hardware"
-date: 2022-09-03T17:59:29-05:00
+date: 2022-09-03
 draft: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Why I Am Switching to Firefox"
-date: 2023-01-05T11:51:58-05:00
+date: 2023-01-05
 draft: false
 ---
 

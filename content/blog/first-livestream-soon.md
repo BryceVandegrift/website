@@ -1,6 +1,6 @@
 ---
 title: "First Livestream Soon"
-date: 2024-08-03T10:05:47-04:00
+date: 2024-08-03
 draft: false
 ---
 

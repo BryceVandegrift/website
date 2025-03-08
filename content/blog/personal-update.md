@@ -1,6 +1,6 @@
 ---
 title: "Personal Update"
-date: 2022-02-01T20:49:38-05:00
+date: 2022-02-01
 draft: false
 ---
 

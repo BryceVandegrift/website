@@ -1,6 +1,6 @@
 ---
 title: "Software"
-date: 2022-09-03T17:59:34-05:00
+date: 2022-09-03
 draft: false
 ---
 

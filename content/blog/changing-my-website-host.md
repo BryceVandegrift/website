@@ -1,6 +1,6 @@
 ---
 title: "Changing My Website Host"
-date: 2022-06-26T20:50:56-05:00
+date: 2022-06-26
 draft: false
 ---
 

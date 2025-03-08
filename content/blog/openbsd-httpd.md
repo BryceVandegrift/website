@@ -1,6 +1,6 @@
 ---
 title: "OpenBSD Server: httpd"
-date: 2025-02-27T15:06:37-05:00
+date: 2025-02-27
 draft: false
 ---
 

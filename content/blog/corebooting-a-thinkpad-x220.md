@@ -1,6 +1,6 @@
 ---
 title: "Corebooting a Thinkpad X220"
-date: 2022-05-31T20:50:37-05:00
+date: 2022-05-31
 draft: false
 ---
 

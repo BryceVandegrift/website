@@ -1,6 +1,6 @@
 ---
 title: "FFmpeg Video Calls"
-date: 2023-09-18T13:30:09-04:00
+date: 2023-09-18
 draft: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "My Conversion"
-date: 2024-03-11T16:15:33-05:00
+date: 2024-03-11
 draft: false
 ---
 

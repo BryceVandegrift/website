@@ -1,6 +1,6 @@
 ---
 title: "A Branded Life"
-date: 2023-07-06T11:32:30-04:00
+date: 2023-07-06
 draft: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Switching to Hugo"
-date: 2022-09-10T14:46:21-05:00
+date: 2022-09-10
 draft: false
 ---
 

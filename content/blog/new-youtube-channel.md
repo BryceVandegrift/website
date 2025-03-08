@@ -1,6 +1,6 @@
 ---
 title: "New Youtube Channel"
-date: 2022-02-20T20:49:51-05:00
+date: 2022-02-20
 draft: false
 ---
 

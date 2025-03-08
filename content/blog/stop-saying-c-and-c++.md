@@ -1,6 +1,6 @@
 ---
 title: "Stop Saying C/C++"
-date: 2023-05-18T13:13:36-04:00
+date: 2023-05-18
 draft: false
 ---
 

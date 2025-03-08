@@ -1,6 +1,6 @@
 ---
 title: "The Importance of Lisp"
-date: 2022-09-13T21:44:56-05:00
+date: 2022-09-13
 draft: false
 ---
 

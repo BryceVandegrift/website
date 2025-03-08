@@ -1,6 +1,6 @@
 ---
 title: "Rust in the Linux Kernel"
-date: 2022-10-25T17:32:01-05:00
+date: 2022-10-25
 draft: false
 ---
 

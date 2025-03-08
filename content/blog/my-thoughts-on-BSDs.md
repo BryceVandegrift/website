@@ -1,6 +1,6 @@
 ---
 title: "My Thoughts on BSDs"
-date: 2021-12-31T20:39:13-05:00
+date: 2021-12-31
 draft: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Why I Switched to Alpine"
-date: 2023-11-06T11:41:21-04:00
+date: 2023-11-06
 draft: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Websites"
-date: 2022-09-03T17:57:58-05:00
+date: 2022-09-03
 draft: false
 ---
 

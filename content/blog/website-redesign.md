@@ -1,6 +1,6 @@
 ---
 title: "Website Redesign"
-date: 2022-03-07T20:50:10-05:00
+date: 2022-03-07
 draft: false
 ---
 

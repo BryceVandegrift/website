@@ -1,6 +1,6 @@
 ---
 title: "I Finally Have a VPS"
-date: 2023-03-12T10:46:18-04:00
+date: 2023-03-12
 draft: false
 ---
 
