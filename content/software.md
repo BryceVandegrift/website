@@ -52,14 +52,12 @@ It goes along pretty well with dwm.
 
 ### Shell
 
-For my shell, I use [yash](https://magicant.github.io/yash/) which is minimal
-shell that aims to be maximally POSIX compliant.
-For the longest time I have used zsh as my main shell, however I have decided
-to switch to yash since it is simpler, faster, and more portable than zsh.
-Despite this, yash still remains user-friendly and has things like command
-suggestions and advanced command completion.
-I found that zsh is a bit too bloated for me and has caused a few problems
-in the past that yash solves.
+For my shell, I just use [Bash](https://www.gnu.org/software/bash/) which is
+usually the default shell for most Linux distributions. It's a good shell for
+interacting with the command line while not being *too* complicated like zsh
+or some other shells. It has completions and is pretty extensible. I've
+experimented with other shells in the past, but Bash seems to be tried and
+true for me.
 
 ### Text/Code Editor
 
