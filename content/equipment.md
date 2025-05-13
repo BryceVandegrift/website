@@ -20,13 +20,12 @@ It does not have that many fancy features but gets the job done.
 
 ## Soldering Station
 
-For soldering I use the 862D+.
-This is a soldering/hot air station.
-For me, it has been pretty reliable and works well.
-The soldering station uses an internal transformer, which means you might hear a slight humming,
-otherwise it's pretty solid.
-I am considering getting a cheaper and smaller portable soldering iron in the
-future, but for now, I am stuck with this.
+I use a [Pinecil](https://pine64.org/devices/pinecil/) for soldering.
+After using it, it's hard to go back to traditional soldering stations. It
+heats up **extremely** fast and it can be powered by a DC jack or a USB-C
+power supply. It has a decent amount of features and it is also pretty easy to
+configure. My only complaints is that it does not come with a stand and the
+tips are a little bit more expensive than traditional soldering iron tips.
 
 ## Oscilloscope
 

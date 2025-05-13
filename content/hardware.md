@@ -46,7 +46,7 @@ fire) and delivers the right amount of power.
 I have 2 drives in my desktop, one HDD and one SSD.
 The SSD I use is a Western Digital Black 256GB SN730.
 It is an NVMe drive so it's pretty dang fast, I don't think I have ever had to physically wait when it came to moving files on this drive.
-I use this drive to store my bootloader/OS as well as small a frequently used files like documents, programs, and etc.
+I use this drive to store my bootloader/OS as well as small and frequently used files like documents, programs, and etc.
 My HDD is Seagate BarraCuda 2TB 7200 RPM.
 I mostly use this drive to store large files like movies, games, pictures, and etc.
 It's a little slow, but I'm very patient.
@@ -86,9 +86,10 @@ Pretty rad.
 
 ### Mouse
 
-My mouse is Logitech three button mouse. Why?
-Because it's the best mouse that I currently have and I barely use my mouse as
-it is, so I don't really mind.
+I use just a cheap wired USB mouse.
+For those of you who care, it is a TMKB M1 SE.
+I used to use a Logitech three button mouse, but I got tired of constantly
+cleaning the trackball, so I switched to an optical mouse.
 I don't prefer wireless mice because I think that replacing the batteries on them is annoying.
 
 ### Monitor
