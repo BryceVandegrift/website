@@ -19,7 +19,7 @@ My main email address is: {{< rawhtml >}}<code>&#98;ry&#99;e&#64;bryce<b class="
 > - You can grab my public GPG/PGP key for encryption [here](/bpv.gpg) or you
 >   can run this command to import my key:
 > 
->   `curl -fsL "https://brycevandegrift.xyz/bpv.gpg" | gpg --import`
+>   `curl -fsL "https://brycev.com/bpv.gpg" | gpg --import`
 
 ## 💬 XMPP
 

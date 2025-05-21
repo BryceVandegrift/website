@@ -14,7 +14,7 @@ I prefer crypto but anything at all is nice. Thanks :)
 
 💸 Bitcoin: `bc1qh6hmj0c44l5fve25kj00mll6mpeev2jyf92q07` ([QR](/p/btc-qr.png))
 
-OpenAlias: `brycevandegrift.xyz`
+OpenAlias: `brycev.com`
 
 ## Affiliate Links
 
