@@ -32,7 +32,7 @@ even better but also to block trackers and advertisements. These include:
 - [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/) (for CDN tracking)
 - [ClearURLs](https://addons.mozilla.org/en-US/android/addon/clearurls/) (for URL tracking)
 - [LibRedirect](https://libredirect.github.io/) (for redirecting to privacy respecting websites)
-- [Vim Vixen](https://addons.mozilla.org/en-US/firefox/addon/vim-vixen/) (for Vim keybindings)
+- [Tridactyl](https://tridactyl.xyz/) (for Vim keybindings)
 
 ### Desktop Environment/Window Manager
 
