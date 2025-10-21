@@ -1,6 +1,7 @@
 baseURL = "https://brycev.com"
 languageCode = "en-us"
 title = "Bryce Vandegrift's Website"
+disableKinds = ["taxonomy", "section"]
 
 [outputs]
 	home = ["HTML", "RSS"]
