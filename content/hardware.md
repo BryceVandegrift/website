@@ -76,13 +76,13 @@ don't take them with me if I go anywhere.
 
 ### Keyboard
 
-I use a [Unicomp](https://www.pckeyboard.com/) Classic.
-When it comes to keyboards, you can't beat the IBM Model M, and the Unicomp Classic is as close to a Model M as you can get.
-This keyboard is the best keyboard I have ever used, period.
-Although this keyboard isn't a Model M it is as close as you can get to an IBM Model M.
-Believe it or not, Unicomp actually bought the tooling and molds that were used
-to make the Model M directly from IBM.
-Pretty rad.
+I use a Kisnt KN85. It's a great keyboard at a **very** good price. It only
+cost me around $45 when I got mine. It has a great build quality, the key
+switches are good, and it's got some weight to it. It even has "hot swappable"
+key switches which makes it easy to repair.
+I used to use a [Unicomp](https://www.pckeyboard.com/) Classic, however the
+build quality wasn't that good and it slowly fell apart over years of use.
+I am hoping that the Kisnt lasts much longer.
 
 ### Mouse
 
