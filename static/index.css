@@ -1,37 +1,3 @@
-:root {
-	--bg: #1e1e1e;
-	--fg: #bdbdbd;
-}
-
-/* light theme for masochists */
-@media(prefers-color-scheme: light) {
-	:root {
-		--bg: #ffffff;
-		--fg: #000000;
-	}
-
-	h1 {
-		color: #000000;
-	}
-
-	a {
-		color: #4084d6;
-	}
-
-	a:hover {
-		color: #4084d6;
-	}
-
-	blockquote {
-		color: #ffffff;
-	}
-
-	nav ul li {
-		border: solid 2px #aaaaaa;
-		background-color: #dddddd;
-	}
-}
-
 body {
 	font-family: serif;
 	word-wrap: break-word;
@@ -39,8 +5,8 @@ body {
 	padding: 1em;
 	margin-left: auto;
 	margin-right: auto;
-	background: var(--bg);
-	color: var(--fg);
+	background: #1e1e1e;
+	color: #bdbdbd;
 }
 
 main {
@@ -217,5 +183,38 @@ footer {
 	}
 	figure {
 		overflow-y: scroll;
+	}
+}
+
+/* light theme for masochists */
+@media(prefers-color-scheme: light) {
+	body {
+		background: #ffffff;
+		color: #000000;
+	}
+
+	h1 {
+		color: #000000;
+	}
+
+	a {
+		color: #4084d6;
+	}
+
+	a:hover {
+		color: #4084d6;
+	}
+
+	blockquote {
+		color: #ffffff;
+	}
+
+	pre {
+		border-color: #aaaaaa;
+	}
+
+	nav ul li {
+		border: solid 2px #aaaaaa;
+		background-color: #dddddd;
 	}
 }
