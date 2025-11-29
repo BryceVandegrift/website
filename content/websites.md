@@ -34,6 +34,7 @@ Websites I find neat or interesting. These links are in no specific order.
 - [Minipeg](https://ach.srht.site/minipeg): A minimal parser generator for C
 - [XMPP](https://xmpp.org/): A better chat protocol than Matrix
 - [Zig](https://ziglang.org/): A programming language that aims to be just as simple and fast as C
+- [Bank Account Bonuses](https://www.doctorofcredit.com/best-bank-account-bonuses/): A list of bank account bonuses for free money
 
 ## Web pins
 
@@ -42,13 +43,14 @@ Websites I find neat or interesting. These links are in no specific order.
 {{< img src="/p/pins/wiby.me.gif" link="https://wiby.me" alt="Wiby" class="webpin" >}}
 {{< img src="/p/pins/gohugo.io.gif" link="https://gohugo.io" alt="Hugo" class="webpin" >}}
 {{< img src="/p/pins/ex-vi.gif" link="https://ex-vi.sourceforge.net" alt="Vi Editor" class="webpin" >}}
-{{< img src="/p/pins/tfaz.xyz.gif" link="https://tfaz.xyz" alt="Tom Fasano" class="webpin" >}}
+{{< img src="/p/pins/tendtotheflame.com.gif" link="https://tendtotheflame.com" alt="Tom Fasano" class="webpin" >}}
 {{< img src="/p/pins/michaelc.xyz.gif" link="https://michaelc.xyz" alt="Michael Carney" class="webpin" >}}
 {{< img src="/p/pins/jacobwsmith.xyz.gif" link="https://jacobwsmith.xyz" alt="Jacob Smith" class="webpin" >}}
 {{< img src="/p/pins/mozilla.org.gif" link="https://mozilla.org/en-US/firefox" alt="Firefox" class="webpin" >}}
 {{< img src="/p/pins/mcdim.xyz.gif" link="https://mcdim.xyz" alt="Michael Dimopoulos" class="webpin" >}}
 {{< img src="/p/pins/mccor.xyz.gif" link="https://mccor.xyz" alt="Jacob McCormick" class="webpin" >}}
 {{< img src="/p/pins/bradyt.ca.gif" link="https://bradyt.ca" alt="Brady" class="webpin" >}}
-{{< img src="/p/pins/netinfection.xyz.gif" link="https://netinfection.xyz" alt="Stefan" class="webpin" >}}
+{{< img src="/p/pins/slavabozhie.com.gif" link="https://slavabozhie.com" alt="Stefan" class="webpin" >}}
 {{< img src="/p/pins/cherub.im.gif" link="https://cherub.im" alt="Lucas" class="webpin" >}}
+{{< img src="/p/pins/extramundane.xyz.gif" link="https://extramundane.xyz" alt="Samuel" class="webpin" >}}
 {{< img src="/p/pins/banporn.gif" link="https://denshi.org/antiporn.html" alt="Ban Porn" class="webpin" >}}
