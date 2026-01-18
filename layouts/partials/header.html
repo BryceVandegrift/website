@@ -4,11 +4,14 @@
 		<title>{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}</title>
 		<link rel="stylesheet" type="text/css" href="/index.css">
 		<link rel="icon" type="image/webp" href="/p/pic.webp">
-		<meta name="robots" content="index, follow">
+		<link rel="canonical" href="{{ .Site.BaseURL }}">
+		<link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }} RSS Feed" href="/rss.xml">
 
-		<meta name="description" content="Hi, my name is Bryce Vandegrift and this is my web page.">
-		<meta name="keywords" content="website, minimal, simple, html, web">
+		<meta name="description" content="{{ if not .IsHome }}{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}
+		{{ else }}{{ print "Hi, my name is Bryce Vandegrift and this is my web page." }}{{ end }}">
+		<meta name="keywords" content="{{ with .Params.tags }}{{ delimit . ", "}}{{ else }}{{ print "website, minimal, simple, html, web" }}{{ end }}">
 		<meta name="author" content="Bryce Vandegrift">
+		<meta name="robots" content="index, follow">
 
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta charset="utf-8">
