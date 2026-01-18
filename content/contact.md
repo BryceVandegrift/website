@@ -10,7 +10,7 @@ Please note that I may not respond immediately.
 
 ## 📧 Email
 
-My main email address is: {{< rawhtml >}}<code>&#98;ry&#99;e&#64;bryce<b class="hide">Nice try bots</b>v&#97;ndeg<em class="hide">Quit grabbing my email</em>rift&#46;x&#121;&#122;</code>{{</ rawhtml >}}
+My main email address is: {{< rawhtml >}}<code>bry<!-- Nice try bots -->ce@b<!-- Quit grabbing my email -->rycev.com</code>{{</ rawhtml >}}
 
 > - All valid emails from me will be signed with my fingerprint:
 > 
@@ -23,8 +23,9 @@ My main email address is: {{< rawhtml >}}<code>&#98;ry&#99;e&#64;bryce<b class="
 
 ## 💬 XMPP
 
+**NOTE: I am currently migrating my XMPP address.**
 My main XMPP address is the same as my email
-address: {{< rawhtml >}}<code>b&#114;yce&#64;&#98;ryce<b class="hide">Nice try bots</b>vandeg<em class="hide">No email for you</em>rift&#46;x&#121;z</code>{{</ rawhtml>}}
+address: {{< rawhtml >}}<code>bryce@bry<!-- Nice try bots -->cevandegrift.x<!-- No email for you -->yz</code>{{</ rawhtml>}}
 
 > - My OMEMO fingerprint for encryption:
 > 
