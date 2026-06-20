@@ -23,9 +23,13 @@ that I use or I actually think are good. I usually make a small commission off
 of these links.
 
 - [Frantech/BuyVM](https://my.frantech.ca/aff.php?aff=6418): A VPS host that offers unlimited bandwidth with limited availability.
-- [Capital One Quicksilver](https://i.capitalone.com/JgrBF6Dc1): A credit card that I actually use.
-- [Discover Student Cash Back](https://refer.discover.com/vandegriftbryce!aab7b4ca52!a):
+- [Capital One](https://i.capitalone.com/JgrBF6Dc1): Referral for various
+credit cards. Some have a nice introductory offer.
+- [Discover it Student Cash Back](https://refer.discover.com/vandegriftbryce!aab7b4ca52!a):
 A decent credit card that I actually use. If you sign up we both get $100.
+Plus they'll match all cashback you earn for the first year.
+- [Chase Freedom Flex/Unlimited](https://www.referyourchasecard.com/18a/KFO6DUEUVD):
+If you sign up we both get $50. Plus there is a $500 bonus offer.
 
 ## Other Ways To Help
 

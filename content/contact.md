@@ -23,9 +23,8 @@ My main email address is: {{< rawhtml >}}<code>bry<!-- Nice try bots -->ce@b<!--
 
 ## 💬 XMPP
 
-**NOTE: I am currently migrating my XMPP address.**
-My main XMPP address is the same as my email
-address: {{< rawhtml >}}<code>bryce@bry<!-- Nice try bots -->cevandegrift.x<!-- No email for you -->yz</code>{{</ rawhtml>}}
+My main XMPP address is:
+{{< rawhtml >}}<code>bryce@bry<!-- Nice try bots -->cevandegrift.x<!-- No email for you -->yz</code>{{</ rawhtml>}}
 
 > - My OMEMO fingerprint for encryption:
 > 
